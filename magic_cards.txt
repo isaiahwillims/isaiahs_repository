@@ -1,0 +1,1746 @@
+Name	Academy Raider
+Cost:	 2R
+Type:	 Creature — Human Warrior
+Pow/Tgh:	 (1/1)
+Rules Text:	 Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Whenever Academy Raider deals combat damage to a player, you may discard a card. If you do, draw a card.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Accorder's Shield
+Cost:	 0
+Type:	 Artifact — Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature gets +0/+3 and has vigilance. (Attacking doesn't cause it to tap.)
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Accursed Spirit
+Cost:	 3B
+Type:	 Creature — Spirit
+Pow/Tgh:	 (3/2)
+Rules Text:	 Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Act of Treason
+Cost:	 2R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Advocate of the Beast
+Cost:	 2G
+Type:	 Creature — Elf Shaman
+Pow/Tgh:	 (2/3)
+Rules Text:	 At the beginning of your end step, put a +1/+1 counter on target Beast creature you control.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Air Servant
+Cost:	 4U
+Type:	 Creature — Elemental
+Pow/Tgh:	 (4/3)
+Rules Text:	 Flying
+{2}{U}: Tap target creature with flying.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Ajani, Caller of the Pride
+Cost:	 1WW
+Type:	 Planeswalker — Ajani
+Loyalty:	 (4)
+Rules Text:	 +1: Put a +1/+1 counter on up to one target creature.
+-3: Target creature gains flying and double strike until end of turn.
+-8: Put X 2/2 white Cat creature tokens onto the battlefield, where X is your life total.
+Set/Rarity:	 Magic 2014 Core Set Mythic Rare
+
+Name	Ajani's Chosen
+Cost:	 2WW
+Type:	 Creature — Cat Soldier
+Pow/Tgh:	 (3/3)
+Rules Text:	 Whenever an enchantment enters the battlefield under your control, put a 2/2 white Cat creature token onto the battlefield. If that enchantment is an Aura, you may attach it to the token.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Altar's Reap
+Cost:	 1B
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 As an additional cost to cast Altar's Reap, sacrifice a creature.
+Draw two cards.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Angelic Accord
+Cost:	 3W
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 At the beginning of each end step, if you gained 4 or more life this turn, put a 4/4 white Angel creature token with flying onto the battlefield.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Angelic Wall
+Cost:	 1W
+Type:	 Creature — Wall
+Pow/Tgh:	 (0/4)
+Rules Text:	 Defender (This creature can't attack.)
+Flying
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Archaeomancer
+Cost:	 2UU
+Type:	 Creature — Human Wizard
+Pow/Tgh:	 (1/2)
+Rules Text:	 When Archaeomancer enters the battlefield, return target instant or sorcery card from your graveyard to your hand.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Archangel of Thune
+Cost:	 3WW
+Type:	 Creature — Angel
+Pow/Tgh:	 (3/4)
+Rules Text:	 Flying
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Whenever you gain life, put a +1/+1 counter on each creature you control.
+Set/Rarity:	 Magic 2014 Core Set Mythic Rare
+
+Name	Armored Cancrix
+Cost:	 4U
+Type:	 Creature — Crab
+Pow/Tgh:	 (2/5)
+Rules Text:	
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Artificer's Hex
+Cost:	 B
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant Equipment
+At the beginning of your upkeep, if enchanted Equipment is attached to a creature, destroy that creature.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Auramancer
+Cost:	 2W
+Type:	 Creature — Human Wizard
+Pow/Tgh:	 (2/2)
+Rules Text:	 When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Awaken the Ancient
+Cost:	 1RRR
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant Mountain
+Enchanted Mountain is a 7/7 red Giant creature with haste. It's still a land.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Banisher Priest
+Cost:	 1WW
+Type:	 Creature — Human Cleric
+Pow/Tgh:	 (2/2)
+Rules Text:	 When Banisher Priest enters the battlefield, exile target creature an opponent controls until Banisher Priest leaves the battlefield. (That creature returns under its owner's control.)
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Barrage of Expendables
+Cost:	 R
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 {R}, Sacrifice a creature: Barrage of Expendables deals 1 damage to target creature or player.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Battle Sliver
+Cost:	 4R
+Type:	 Creature — Sliver
+Pow/Tgh:	 (3/3)
+Rules Text:	 Sliver creatures you control get +2/+0.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Blessing
+Cost:	 WW
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+{W}: Enchanted creature gets +1/+1 until end of turn.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Blightcaster
+Cost:	 3B
+Type:	 Creature — Human Wizard
+Pow/Tgh:	 (2/3)
+Rules Text:	 Whenever you cast an enchantment spell, you may have target creature get -2/-2 until end of turn.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Blood Bairn
+Cost:	 2B
+Type:	 Creature — Vampire
+Pow/Tgh:	 (2/2)
+Rules Text:	 Sacrifice another creature: Blood Bairn gets +2/+2 until end of turn.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Blur Sliver
+Cost:	 2R
+Type:	 Creature — Sliver
+Pow/Tgh:	 (2/2)
+Rules Text:	 Sliver creatures you control have haste. (They can attack and {T} as soon as they come under your control.)
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Bogbrew Witch
+Cost:	 3B
+Type:	 Creature — Human Wizard
+Pow/Tgh:	 (1/3)
+Rules Text:	 {2}, {T}: Search your library for a card named Festering Newt or Bubbling Cauldron, put it onto the battlefield tapped, then shuffle your library.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Bonescythe Sliver
+Cost:	 3W
+Type:	 Creature — Sliver
+Pow/Tgh:	 (2/2)
+Rules Text:	 Sliver creatures you control have double strike. (They deal both first-strike and regular combat damage.)
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Bramblecrush
+Cost:	 2GG
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Destroy target noncreature permanent.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Brave the Elements
+Cost:	 W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Choose a color. White creatures you control gain protection from the chosen color until end of turn. (They can't be blocked, targeted, dealt damage, or enchanted by anything of that color.)
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Briarpack Alpha
+Cost:	 3G
+Type:	 Creature — Wolf
+Pow/Tgh:	 (3/3)
+Rules Text:	 Flash (You may cast this spell any time you could cast an instant.)
+When Briarpack Alpha enters the battlefield, target creature gets +2/+2 until end of turn.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Brindle Boar
+Cost:	 2G
+Type:	 Creature — Boar
+Pow/Tgh:	 (2/2)
+Rules Text:	 Sacrifice Brindle Boar: You gain 4 life.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Bubbling Cauldron
+Cost:	 2
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {1}, {T}, Sacrifice a creature: You gain 4 life.
+{1}, {T}, Sacrifice a creature named Festering Newt: Each opponent loses 4 life. You gain life equal to the life lost this way.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Burning Earth
+Cost:	 3R
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever a player taps a nonbasic land for mana, Burning Earth deals 1 damage to that player.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Cancel
+Cost:	 1UU
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Counter target spell.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Canyon Minotaur
+Cost:	 3R
+Type:	 Creature — Minotaur Warrior
+Pow/Tgh:	 (3/3)
+Rules Text:	
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Capashen Knight
+Cost:	 1W
+Type:	 Creature — Human Knight
+Pow/Tgh:	 (1/1)
+Rules Text:	 First strike (This creature deals combat damage before creatures without first strike.)
+{1}{W}: Capashen Knight gets +1/+0 until end of turn.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Celestial Flare
+Cost:	 WW
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target player sacrifices an attacking or blocking creature.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Chandra, Pyromaster
+Cost:	 2RR
+Type:	 Planeswalker — Chandra
+Loyalty:	 (4)
+Rules Text:	 +1: Chandra, Pyromaster deals 1 damage to target player and 1 damage to up to one target creature that player controls. That creature can't block this turn.
+0: Exile the top card of your library. You may play it this turn.
+-7: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.
+Set/Rarity:	 Magic 2014 Core Set Mythic Rare
+
+Name	Chandra's Outrage
+Cost:	 2RR
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Chandra's Outrage deals 4 damage to target creature and 2 damage to that creature's controller.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Chandra's Phoenix
+Cost:	 1RR
+Type:	 Creature — Phoenix
+Pow/Tgh:	 (2/2)
+Rules Text:	 Flying
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+Whenever an opponent is dealt damage by a red instant or sorcery spell you control or by a red planeswalker you control, return Chandra's Phoenix from your graveyard to your hand.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Charging Griffin
+Cost:	 3W
+Type:	 Creature — Griffin
+Pow/Tgh:	 (2/2)
+Rules Text:	 Flying
+Whenever Charging Griffin attacks, it gets +1/+1 until end of turn.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Child of Night
+Cost:	 1B
+Type:	 Creature — Vampire
+Pow/Tgh:	 (2/1)
+Rules Text:	 Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Claustrophobia
+Cost:	 1UU
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+When Claustrophobia enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Clone
+Cost:	 3U
+Type:	 Creature — Shapeshifter
+Pow/Tgh:	 (0/0)
+Rules Text:	 You may have Clone enter the battlefield as a copy of any creature on the battlefield.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Colossal Whale
+Cost:	 5UU
+Type:	 Creature — Whale
+Pow/Tgh:	 (5/5)
+Rules Text:	 Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+Whenever Colossal Whale attacks, you may exile target creature defending player controls until Colossal Whale leaves the battlefield. (That creature returns under its owner's control.)
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Congregate
+Cost:	 3W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target player gains 2 life for each creature on the battlefield.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Coral Merfolk
+Cost:	 1U
+Type:	 Creature — Merfolk
+Pow/Tgh:	 (2/1)
+Rules Text:	
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Corpse Hauler
+Cost:	 1B
+Type:	 Creature — Human Rogue
+Pow/Tgh:	 (2/1)
+Rules Text:	 {2}{B}, Sacrifice Corpse Hauler: Return another target creature card from your graveyard to your hand.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Corrupt
+Cost:	 5B
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Corrupt deals damage equal to the number of Swamps you control to target creature or player. You gain life equal to the damage dealt this way.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Cyclops Tyrant
+Cost:	 5R
+Type:	 Creature — Cyclops
+Pow/Tgh:	 (3/4)
+Rules Text:	 Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Cyclops Tyrant can't block creatures with power 2 or less.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Dark Favor
+Cost:	 1B
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+When Dark Favor enters the battlefield, you lose 1 life.
+Enchanted creature gets +3/+1.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Dark Prophecy
+Cost:	 BBB
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever a creature you control dies, you draw a card and lose 1 life.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Darksteel Forge
+Cost:	 9
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Artifacts you control have indestructible. (Effects that say "destroy" don't destroy them. Artifact creatures with indestructible can't be destroyed by damage.)
+Set/Rarity:	 Magic 2014 Core Set Mythic Rare
+
+Name	Darksteel Ingot
+Cost:	 3
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Indestructible
+{T}: Add one mana of any color to your mana pool.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Dawnstrike Paladin
+Cost:	 3WW
+Type:	 Creature — Human Knight
+Pow/Tgh:	 (2/4)
+Rules Text:	 Vigilance (Attacking doesn't cause this creature to tap.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Deadly Recluse
+Cost:	 1G
+Type:	 Creature — Spider
+Pow/Tgh:	 (1/2)
+Rules Text:	 Reach (This creature can block creatures with flying.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Deathgaze Cockatrice
+Cost:	 2BB
+Type:	 Creature — Cockatrice
+Pow/Tgh:	 (2/2)
+Rules Text:	 Flying
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Demolish
+Cost:	 3R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Destroy target artifact or land.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Devout Invocation
+Cost:	 6W
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Tap any number of untapped creatures you control. Put a 4/4 white Angel creature token with flying onto the battlefield for each creature tapped this way.
+Set/Rarity:	 Magic 2014 Core Set Mythic Rare
+
+Name	Diabolic Tutor
+Cost:	 2BB
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Search your library for a card and put that card into your hand. Then shuffle your library.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Dismiss into Dream
+Cost:	 6U
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Each creature your opponents control is an Illusion in addition to its other types and has "When this creature becomes the target of a spell or ability, sacrifice it."
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Disperse
+Cost:	 1U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Return target nonland permanent to its owner's hand.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Divination
+Cost:	 2U
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Draw two cards.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Divine Favor
+Cost:	 1W
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+When Divine Favor enters the battlefield, you gain 3 life.
+Enchanted creature gets +1/+3.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Domestication
+Cost:	 2UU
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+You control enchanted creature.
+At the beginning of your end step, if enchanted creature's power is 4 or greater, sacrifice Domestication.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Doom Blade
+Cost:	 1B
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Destroy target nonblack creature.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Door of Destinies
+Cost:	 4
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 As Door of Destinies enters the battlefield, choose a creature type.
+Whenever you cast a spell of the chosen type, put a charge counter on Door of Destinies.
+Creatures you control of the chosen type get +1/+1 for each charge counter on Door of Destinies.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Dragon Egg
+Cost:	 2R
+Type:	 Creature — Dragon
+Pow/Tgh:	 (0/2)
+Rules Text:	 Defender (This creature can't attack.)
+When Dragon Egg dies, put a 2/2 red Dragon creature token with flying onto the battlefield. It has "{R}: This creature gets +1/+0 until end of turn."
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Dragon Hatchling
+Cost:	 1R
+Type:	 Creature — Dragon
+Pow/Tgh:	 (0/1)
+Rules Text:	 Flying
+{R}: Dragon Hatchling gets +1/+0 until end of turn.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Duress
+Cost:	 B
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Elite Arcanist
+Cost:	 3U
+Type:	 Creature — Human Wizard
+Pow/Tgh:	 (1/1)
+Rules Text:	 When Elite Arcanist enters the battlefield, you may exile an instant card from your hand.
+{X}, {T}: Copy the exiled card. You may cast the copy without paying its mana cost. X is the converted mana cost of the exiled card.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Elixir of Immortality
+Cost:	 1
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {2}, {T}: You gain 5 life. Shuffle Elixir of Immortality and your graveyard into their owner's library.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Elvish Mystic
+Cost:	 G
+Type:	 Creature — Elf Druid
+Pow/Tgh:	 (1/1)
+Rules Text:	 {T}: Add {G} to your mana pool.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Encroaching Wastes
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 {T}: Add {1} to your mana pool.
+{4}, {T}, Sacrifice Encroaching Wastes: Destroy target nonbasic land.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Enlarge
+Cost:	 3GG
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target creature gets +7/+7 and gains trample until end of turn. It must be blocked this turn if able. (If a creature with trample would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Essence Scatter
+Cost:	 1U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Counter target creature spell.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Festering Newt
+Cost:	 B
+Type:	 Creature — Salamander
+Pow/Tgh:	 (1/1)
+Rules Text:	 When Festering Newt dies, target creature an opponent controls gets -1/-1 until end of turn. That creature gets -4/-4 instead if you control a creature named Bogbrew Witch.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Fiendslayer Paladin
+Cost:	 1WW
+Type:	 Creature — Human Knight
+Pow/Tgh:	 (2/2)
+Rules Text:	 First strike (This creature deals combat damage before creatures without first strike.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Fiendslayer Paladin can't be the target of black or red spells your opponents control.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Fireshrieker
+Cost:	 3
+Type:	 Artifact — Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature has double strike. (It deals both first-strike and regular combat damage.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Flames of the Firebrand
+Cost:	 2R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Flames of the Firebrand deals 3 damage divided as you choose among one, two, or three target creatures and/or players.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Fleshpulper Giant
+Cost:	 5RR
+Type:	 Creature — Giant
+Pow/Tgh:	 (4/4)
+Rules Text:	 When Fleshpulper Giant enters the battlefield, you may destroy target creature with toughness 2 or less.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Fog
+Cost:	 G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Prevent all combat damage that would be dealt this turn.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Forest
+Cost:	
+Type:	 Basic Land — Forest
+Pow/Tgh:	
+Rules Text:	 G
+Set/Rarity:	 Magic 2014 Core Set Land, Magic 2014 Core Set Land, Magic 2014 Core Set Land, Magic 2014 Core Set Land
+
+Name	Fortify
+Cost:	 2W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Choose one — Creatures you control get +2/+0 until end of turn; or creatures you control get +0/+2 until end of turn.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Frost Breath
+Cost:	 2U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Galerider Sliver
+Cost:	 U
+Type:	 Creature — Sliver
+Pow/Tgh:	 (1/1)
+Rules Text:	 Sliver creatures you control have flying.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Garruk, Caller of Beasts
+Cost:	 4GG
+Type:	 Planeswalker — Garruk
+Loyalty:	 (4)
+Rules Text:	 +1: Reveal the top five cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.
+-3: You may put a green creature card from your hand onto the battlefield.
+-7: You get an emblem with "Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle your library."
+Set/Rarity:	 Magic 2014 Core Set Mythic Rare
+
+Name	Garruk's Horde
+Cost:	 5GG
+Type:	 Creature — Beast
+Pow/Tgh:	 (7/7)
+Rules Text:	 Trample
+Play with the top card of your library revealed.
+You may cast the top card of your library if it's a creature card. (Do this only any time you could cast that creature card. You still pay the spell's costs.)
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Giant Growth
+Cost:	 G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets +3/+3 until end of turn.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Giant Spider
+Cost:	 3G
+Type:	 Creature — Spider
+Pow/Tgh:	 (2/4)
+Rules Text:	 Reach (This creature can block creatures with flying.)
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Gladecover Scout
+Cost:	 G
+Type:	 Creature — Elf Scout
+Pow/Tgh:	 (1/1)
+Rules Text:	 Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Glimpse the Future
+Cost:	 2U
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Gnawing Zombie
+Cost:	 1B
+Type:	 Creature — Zombie
+Pow/Tgh:	 (1/3)
+Rules Text:	 {1}{B}, Sacrifice a creature: Target player loses 1 life and you gain 1 life.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Goblin Diplomats
+Cost:	 1R
+Type:	 Creature — Goblin
+Pow/Tgh:	 (2/1)
+Rules Text:	 {T}: Each creature attacks this turn if able.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Goblin Shortcutter
+Cost:	 1R
+Type:	 Creature — Goblin Scout
+Pow/Tgh:	 (2/1)
+Rules Text:	 When Goblin Shortcutter enters the battlefield, target creature can't block this turn.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Griffin Sentinel
+Cost:	 2W
+Type:	 Creature — Griffin
+Pow/Tgh:	 (1/3)
+Rules Text:	 Flying
+Vigilance (Attacking doesn't cause this creature to tap.)
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Grim Return
+Cost:	 2B
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Choose target creature card in a graveyard that was put there from the battlefield this turn. Put that card onto the battlefield under your control.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Groundshaker Sliver
+Cost:	 6G
+Type:	 Creature — Sliver
+Pow/Tgh:	 (5/5)
+Rules Text:	 Sliver creatures you control have trample. (If a Sliver you control would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Guardian of the Ages
+Cost:	 7
+Type:	 Artifact Creature — Golem
+Pow/Tgh:	 (7/7)
+Rules Text:	 Defender (This creature can't attack.)
+When a creature attacks you or a planeswalker you control, if Guardian of the Ages has defender, it loses defender and gains trample.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Haunted Plate Mail
+Cost:	 4
+Type:	 Artifact — Equipment
+Pow/Tgh:	
+Rules Text:	 Equipped creature gets +4/+4.
+{0}: Until end of turn, Haunted Plate Mail becomes a 4/4 Spirit artifact creature that's no longer an Equipment. Activate this ability only if you control no creatures.
+Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Hive Stirrings
+Cost:	 2W
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Put two 1/1 colorless Sliver creature tokens onto the battlefield.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Howl of the Night Pack
+Cost:	 6G
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Put a 2/2 green Wolf creature token onto the battlefield for each Forest you control.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Hunt the Weak
+Cost:	 3G
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don't control. (Each deals damage equal to its power to the other.)
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Illusionary Armor
+Cost:	 4U
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature gets +4/+4.
+When enchanted creature becomes the target of a spell or ability, sacrifice Illusionary Armor.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Imposing Sovereign
+Cost:	 1W
+Type:	 Creature — Human
+Pow/Tgh:	 (2/1)
+Rules Text:	 Creatures your opponents control enter the battlefield tapped.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Indestructibility
+Cost:	 3W
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant permanent
+Enchanted permanent has indestructible. (Effects that say "destroy" don't destroy that permanent. A creature with indestructible can't be destroyed by damage.)
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Into the Wilds
+Cost:	 3G
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 At the beginning of your upkeep, look at the top card of your library. If it's a land card, you may put it onto the battlefield.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Island
+Cost:	
+Type:	 Basic Land — Island
+Pow/Tgh:	
+Rules Text:	 U
+Set/Rarity:	 Magic 2014 Core Set Land, Magic 2014 Core Set Land, Magic 2014 Core Set Land, Magic 2014 Core Set Land
+
+Name	Jace, Memory Adept
+Cost:	 3UU
+Type:	 Planeswalker — Jace
+Loyalty:	 (4)
+Rules Text:	 +1: Draw a card. Target player puts the top card of his or her library into his or her graveyard.
+0: Target player puts the top ten cards of his or her library into his or her graveyard.
+-7: Any number of target players each draw twenty cards.
+Set/Rarity:	 Magic 2014 Core Set Mythic Rare
+
+Name	Jace's Mindseeker
+Cost:	 4UU
+Type:	 Creature — Fish Illusion
+Pow/Tgh:	 (4/4)
+Rules Text:	 Flying
+When Jace's Mindseeker enters the battlefield, target opponent puts the top five cards of his or her library into his or her graveyard. You may cast an instant or sorcery card from among them without paying its mana cost.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Kalonian Hydra
+Cost:	 3GG
+Type:	 Creature — Hydra
+Pow/Tgh:	 (0/0)
+Rules Text:	 Trample
+Kalonian Hydra enters the battlefield with four +1/+1 counters on it.
+Whenever Kalonian Hydra attacks, double the number of +1/+1 counters on each creature you control.
+Set/Rarity:	 Magic 2014 Core Set Mythic Rare
+
+Name	Kalonian Tusker
+Cost:	 GG
+Type:	 Creature — Beast
+Pow/Tgh:	 (3/3)
+Rules Text:	
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Lava Axe
+Cost:	 4R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Lava Axe deals 5 damage to target player.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Lay of the Land
+Cost:	 G
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Lifebane Zombie
+Cost:	 1BB
+Type:	 Creature — Zombie Warrior
+Pow/Tgh:	 (3/1)
+Rules Text:	 Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+When Lifebane Zombie enters the battlefield, target opponent reveals his or her hand. You choose a green or white creature card from it and exile that card.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Lightning Talons
+Cost:	 2R
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature gets +3/+0 and has first strike. (It deals combat damage before creatures without first strike.)
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Liliana of the Dark Realms
+Cost:	 2BB
+Type:	 Planeswalker — Liliana
+Loyalty:	 (3)
+Rules Text:	 +1: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.
+-3: Target creature gets +X/+X or -X/-X until end of turn, where X is the number of Swamps you control.
+-6: You get an emblem with "Swamps you control have ‘{T}: Add {B}{B}{B}{B} to your mana pool.'"
+Set/Rarity:	 Magic 2014 Core Set Mythic Rare
+
+Name	Liliana's Reaver
+Cost:	 2BB
+Type:	 Creature — Zombie
+Pow/Tgh:	 (4/3)
+Rules Text:	 Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Whenever Liliana's Reaver deals combat damage to a player, that player discards a card and you put a 2/2 black Zombie creature token onto the battlefield tapped.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Liturgy of Blood
+Cost:	 3BB
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Destroy target creature. Add {B}{B}{B} to your mana pool.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Manaweft Sliver
+Cost:	 1G
+Type:	 Creature — Sliver
+Pow/Tgh:	 (1/1)
+Rules Text:	 Sliver creatures you control have "{T}: Add one mana of any color to your mana pool."
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Marauding Maulhorn
+Cost:	 2RR
+Type:	 Creature — Beast
+Pow/Tgh:	 (5/3)
+Rules Text:	 Marauding Maulhorn attacks each combat if able unless you control a creature named Advocate of the Beast.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Mark of the Vampire
+Cost:	 3B
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature gets +2/+2 and has lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Master of Diversion
+Cost:	 2W
+Type:	 Creature — Human Scout
+Pow/Tgh:	 (2/2)
+Rules Text:	 Whenever Master of Diversion attacks, tap target creature defending player controls.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Megantic Sliver
+Cost:	 5G
+Type:	 Creature — Sliver
+Pow/Tgh:	 (3/3)
+Rules Text:	 Sliver creatures you control get +3/+3.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Merfolk Spy
+Cost:	 U
+Type:	 Creature — Merfolk Rogue
+Pow/Tgh:	 (1/1)
+Rules Text:	 Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+Whenever Merfolk Spy deals combat damage to a player, that player reveals a card at random from his or her hand.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Messenger Drake
+Cost:	 3UU
+Type:	 Creature — Drake
+Pow/Tgh:	 (3/3)
+Rules Text:	 Flying
+When Messenger Drake dies, draw a card.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Millstone
+Cost:	 2
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {2}, {T}: Target player puts the top two cards of his or her library into his or her graveyard.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Mind Rot
+Cost:	 2B
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target player discards two cards.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Mindsparker
+Cost:	 1RR
+Type:	 Creature — Elemental
+Pow/Tgh:	 (3/2)
+Rules Text:	 First strike (This creature deals combat damage before creatures without first strike.)
+Whenever an opponent casts a white or blue instant or sorcery spell, Mindsparker deals 2 damage to that player.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Minotaur Abomination
+Cost:	 4BB
+Type:	 Creature — Zombie Minotaur
+Pow/Tgh:	 (4/6)
+Rules Text:	
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Molten Birth
+Cost:	 1RR
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Put two 1/1 red Elemental creature tokens onto the battlefield. Then flip a coin. If you win the flip, return Molten Birth to its owner's hand.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Mountain
+Cost:	
+Type:	 Basic Land — Mountain
+Pow/Tgh:	
+Rules Text:	 R
+Set/Rarity:	 Magic 2014 Core Set Land, Magic 2014 Core Set Land, Magic 2014 Core Set Land, Magic 2014 Core Set Land
+
+Name	Mutavault
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 {T}: Add {1} to your mana pool.
+{1}: Mutavault becomes a 2/2 creature with all creature types until end of turn. It's still a land.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Naturalize
+Cost:	 1G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Destroy target artifact or enchantment.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Negate
+Cost:	 1U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Counter target noncreature spell.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Nephalia Seakite
+Cost:	 3U
+Type:	 Creature — Bird
+Pow/Tgh:	 (2/3)
+Rules Text:	 Flash (You may cast this spell any time you could cast an instant.)
+Flying
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Nightmare
+Cost:	 5B
+Type:	 Creature — Nightmare Horse
+Pow/Tgh:	 (*/*)
+Rules Text:	 Flying
+Nightmare's power and toughness are each equal to the number of Swamps you control.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Nightwing Shade
+Cost:	 4B
+Type:	 Creature — Shade
+Pow/Tgh:	 (2/2)
+Rules Text:	 Flying
+{1}{B}: Nightwing Shade gets +1/+1 until end of turn.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Oath of the Ancient Wood
+Cost:	 2G
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever Oath of the Ancient Wood or another enchantment enters the battlefield under your control, you may put a +1/+1 counter on target creature.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Ogre Battledriver
+Cost:	 2RR
+Type:	 Creature — Ogre Warrior
+Pow/Tgh:	 (3/3)
+Rules Text:	 Whenever another creature enters the battlefield under your control, that creature gets +2/+0 and gains haste until end of turn. (It can attack and {T} this turn.)
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Opportunity
+Cost:	 4UU
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target player draws four cards.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Pacifism
+Cost:	 1W
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature can't attack or block.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Path of Bravery
+Cost:	 2W
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 As long as your life total is greater than or equal to your starting life total, creatures you control get +1/+1.
+Whenever one or more creatures you control attack, you gain life equal to the number of attacking creatures.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Pay No Heed
+Cost:	 W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Prevent all damage a source of your choice would deal this turn.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Phantom Warrior
+Cost:	 1UU
+Type:	 Creature — Illusion Warrior
+Pow/Tgh:	 (2/2)
+Rules Text:	 Phantom Warrior can't be blocked.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Pillarfield Ox
+Cost:	 3W
+Type:	 Creature — Ox
+Pow/Tgh:	 (2/4)
+Rules Text:	
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Pitchburn Devils
+Cost:	 4R
+Type:	 Creature — Devil
+Pow/Tgh:	 (3/3)
+Rules Text:	 When Pitchburn Devils dies, it deals 3 damage to target creature or player.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Plains
+Cost:	
+Type:	 Basic Land — Plains
+Pow/Tgh:	
+Rules Text:	 W
+Set/Rarity:	 Magic 2014 Core Set Land, Magic 2014 Core Set Land, Magic 2014 Core Set Land, Magic 2014 Core Set Land
+
+Name	Planar Cleansing
+Cost:	 3WWW
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Destroy all nonland permanents.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Plummet
+Cost:	 1G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Destroy target creature with flying.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Predatory Sliver
+Cost:	 1G
+Type:	 Creature — Sliver
+Pow/Tgh:	 (1/1)
+Rules Text:	 Sliver creatures you control get +1/+1.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Primeval Bounty
+Cost:	 5G
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever you cast a creature spell, put a 3/3 green Beast creature token onto the battlefield.
+Whenever you cast a noncreature spell, put three +1/+1 counters on target creature you control.
+Whenever a land enters the battlefield under your control, you gain 3 life.
+Set/Rarity:	 Magic 2014 Core Set Mythic Rare
+
+Name	Pyromancer's Gauntlet
+Cost:	 5
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 If a red instant or sorcery spell you control or a red planeswalker you control would deal damage to a permanent or player, it deals that much damage plus 2 to that permanent or player instead.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Quag Sickness
+Cost:	 2B
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature gets -1/-1 for each Swamp you control.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Quicken
+Cost:	 U
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 The next sorcery card you cast this turn can be cast as though it had flash. (It can be cast any time you could cast an instant.)
+Draw a card.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Ranger's Guile
+Cost:	 G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature you control gets +1/+1 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Ratchet Bomb
+Cost:	 2
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {T}: Put a charge counter on Ratchet Bomb.
+{T}, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Ratchet Bomb.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Regathan Firecat
+Cost:	 2R
+Type:	 Creature — Elemental Cat
+Pow/Tgh:	 (4/1)
+Rules Text:	
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Ring of Three Wishes
+Cost:	 5
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Ring of Three Wishes enters the battlefield with three wish counters on it.
+{5}, {T}, Remove a wish counter from Ring of Three Wishes: Search your library for a card and put that card into your hand. Then shuffle your library.
+Set/Rarity:	 Magic 2014 Core Set Mythic Rare
+
+Name	Rise of the Dark Realms
+Cost:	 7BB
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Put all creature cards from all graveyards onto the battlefield under your control.
+Set/Rarity:	 Magic 2014 Core Set Mythic Rare
+
+Name	Rod of Ruin
+Cost:	 4
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {3}, {T}: Rod of Ruin deals 1 damage to target creature or player.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Rootwalla
+Cost:	 2G
+Type:	 Creature — Lizard
+Pow/Tgh:	 (2/2)
+Rules Text:	 {1}{G}: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Rumbling Baloth
+Cost:	 2GG
+Type:	 Creature — Beast
+Pow/Tgh:	 (4/4)
+Rules Text:	
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Sanguine Bond
+Cost:	 3BB
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 Whenever you gain life, target opponent loses that much life.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Savage Summoning
+Cost:	 G
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Savage Summoning can't be countered.
+The next creature card you cast this turn can be cast as though it had flash. That spell can't be countered. That creature enters the battlefield with an additional +1/+1 counter on it.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Scavenging Ooze
+Cost:	 1G
+Type:	 Creature — Ooze
+Pow/Tgh:	 (2/2)
+Rules Text:	 {G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on Scavenging Ooze and you gain 1 life.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Scourge of Valkas
+Cost:	 2RRR
+Type:	 Creature — Dragon
+Pow/Tgh:	 (4/4)
+Rules Text:	 Flying
+Whenever Scourge of Valkas or another Dragon enters the battlefield under your control, it deals X damage to target creature or player, where X is the number of Dragons you control.
+{R}: Scourge of Valkas gets +1/+0 until end of turn.
+Set/Rarity:	 Magic 2014 Core Set Mythic Rare
+
+Name	Scroll Thief
+Cost:	 2U
+Type:	 Creature — Merfolk Rogue
+Pow/Tgh:	 (1/3)
+Rules Text:	 Whenever Scroll Thief deals combat damage to a player, draw a card.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Seacoast Drake
+Cost:	 1U
+Type:	 Creature — Drake
+Pow/Tgh:	 (1/3)
+Rules Text:	 Flying
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Seismic Stomp
+Cost:	 1R
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Creatures without flying can't block this turn.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Sengir Vampire
+Cost:	 3BB
+Type:	 Creature — Vampire
+Pow/Tgh:	 (4/4)
+Rules Text:	 Flying
+Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Sensory Deprivation
+Cost:	 U
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature gets -3/-0.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Sentinel Sliver
+Cost:	 1W
+Type:	 Creature — Sliver
+Pow/Tgh:	 (2/2)
+Rules Text:	 Sliver creatures you control have vigilance. (Attacking doesn't cause them to tap.)
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Seraph of the Sword
+Cost:	 3W
+Type:	 Creature — Angel
+Pow/Tgh:	 (3/3)
+Rules Text:	 Flying
+Prevent all combat damage that would be dealt to Seraph of the Sword.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Serra Angel
+Cost:	 3WW
+Type:	 Creature — Angel
+Pow/Tgh:	 (4/4)
+Rules Text:	 Flying
+Vigilance (Attacking doesn't cause this creature to tap.)
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Shadowborn Apostle
+Cost:	 B
+Type:	 Creature — Human Cleric
+Pow/Tgh:	 (1/1)
+Rules Text:	 A deck can have any number of cards named Shadowborn Apostle.
+{B}, Sacrifice six creatures named Shadowborn Apostle: Search your library for a Demon creature card and put it onto the battlefield. Then shuffle your library.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Shadowborn Demon
+Cost:	 3BB
+Type:	 Creature — Demon
+Pow/Tgh:	 (5/6)
+Rules Text:	 Flying
+When Shadowborn Demon enters the battlefield, destroy target non-Demon creature.
+At the beginning of your upkeep, if there are fewer than six creature cards in your graveyard, sacrifice a creature.
+Set/Rarity:	 Magic 2014 Core Set Mythic Rare
+
+Name	Shimmering Grotto
+Cost:	
+Type:	 Land
+Pow/Tgh:	
+Rules Text:	 {T}: Add {1} to your mana pool.
+{1}, {T}: Add one mana of any color to your mana pool.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Shivan Dragon
+Cost:	 4RR
+Type:	 Creature — Dragon
+Pow/Tgh:	 (5/5)
+Rules Text:	 Flying
+{R}: Shivan Dragon gets +1/+0 until end of turn.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Shiv's Embrace
+Cost:	 2RR
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature gets +2/+2 and has flying.
+{R}: Enchanted creature gets +1/+0 until end of turn.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Shock
+Cost:	 R
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Shock deals 2 damage to target creature or player.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Show of Valor
+Cost:	 1W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets +2/+4 until end of turn.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Shrivel
+Cost:	 1B
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 All creatures get -1/-1 until end of turn.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Siege Mastodon
+Cost:	 4W
+Type:	 Creature — Elephant
+Pow/Tgh:	 (3/5)
+Rules Text:	
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Silence
+Cost:	 W
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Your opponents can't cast spells this turn. (Spells cast before this resolves are unaffected.)
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Sliver Construct
+Cost:	 3
+Type:	 Artifact Creature — Sliver Construct
+Pow/Tgh:	 (2/2)
+Rules Text:	
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Smelt
+Cost:	 R
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Destroy target artifact.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Solemn Offering
+Cost:	 2W
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Destroy target artifact or enchantment. You gain 4 life.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Soulmender
+Cost:	 W
+Type:	 Creature — Human Cleric
+Pow/Tgh:	 (1/1)
+Rules Text:	 {T}: You gain 1 life.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Spell Blast
+Cost:	 XU
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Counter target spell with converted mana cost X. (For example, if that spell's mana cost is {3}{U}{U}, X is 5.)
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Sporemound
+Cost:	 3GG
+Type:	 Creature — Fungus
+Pow/Tgh:	 (3/3)
+Rules Text:	 Whenever a land enters the battlefield under your control, put a 1/1 green Saproling creature token onto the battlefield.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Staff of the Death Magus
+Cost:	 3
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Whenever you cast a black spell or a Swamp enters the battlefield under your control, you gain 1 life.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Staff of the Flame Magus
+Cost:	 3
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Whenever you cast a red spell or a Mountain enters the battlefield under your control, you gain 1 life.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Staff of the Mind Magus
+Cost:	 3
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Whenever you cast a blue spell or an Island enters the battlefield under your control, you gain 1 life.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Staff of the Sun Magus
+Cost:	 3
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Whenever you cast a white spell or a Plains enters the battlefield under your control, you gain 1 life.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Staff of the Wild Magus
+Cost:	 3
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 Whenever you cast a green spell or a Forest enters the battlefield under your control, you gain 1 life.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Steelform Sliver
+Cost:	 2W
+Type:	 Creature — Sliver
+Pow/Tgh:	 (2/2)
+Rules Text:	 Sliver creatures you control get +0/+1.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Stonehorn Chanter
+Cost:	 5W
+Type:	 Creature — Rhino Cleric
+Pow/Tgh:	 (4/4)
+Rules Text:	 {5}{W}: Stonehorn Chanter gains vigilance and lifelink until end of turn. (Attacking doesn't cause it to tap. Damage dealt by it also causes you to gain that much life.)
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Striking Sliver
+Cost:	 R
+Type:	 Creature — Sliver
+Pow/Tgh:	 (1/1)
+Rules Text:	 Sliver creatures you control have first strike. (They deal combat damage before creatures without first strike.)
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Strionic Resonator
+Cost:	 2
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {2}, {T}: Copy target triggered ability you control. You may choose new targets for the copy. (A triggered ability uses the words "when," "whenever," or "at.")
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Suntail Hawk
+Cost:	 W
+Type:	 Creature — Bird
+Pow/Tgh:	 (1/1)
+Rules Text:	 Flying
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Swamp
+Cost:	
+Type:	 Basic Land — Swamp
+Pow/Tgh:	
+Rules Text:	 B
+Set/Rarity:	 Magic 2014 Core Set Land, Magic 2014 Core Set Land, Magic 2014 Core Set Land, Magic 2014 Core Set Land
+
+Name	Syphon Sliver
+Cost:	 2B
+Type:	 Creature — Sliver
+Pow/Tgh:	 (2/2)
+Rules Text:	 Sliver creatures you control have lifelink. (Damage dealt by a Sliver creature you control also causes you to gain that much life.)
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Tenacious Dead
+Cost:	 B
+Type:	 Creature — Skeleton Warrior
+Pow/Tgh:	 (1/1)
+Rules Text:	 When Tenacious Dead dies, you may pay {1}{B}. If you do, return it to the battlefield tapped under its owner's control.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Thorncaster Sliver
+Cost:	 4R
+Type:	 Creature — Sliver
+Pow/Tgh:	 (2/2)
+Rules Text:	 Sliver creatures you control have "Whenever this creature attacks, it deals 1 damage to target creature or player."
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Thunder Strike
+Cost:	 1R
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets +2/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Tidebinder Mage
+Cost:	 UU
+Type:	 Creature — Merfolk Wizard
+Pow/Tgh:	 (2/2)
+Rules Text:	 When Tidebinder Mage enters the battlefield, tap target red or green creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Tidebinder Mage.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Time Ebb
+Cost:	 2U
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Put target creature on top of its owner's library.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Tome Scour
+Cost:	 U
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target player puts the top five cards of his or her library into his or her graveyard.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Trading Post
+Cost:	 4
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {1}, {T}, Discard a card: You gain 4 life.
+{1}, {T}, Pay 1 life: Put a 0/1 white Goat creature token onto the battlefield.
+{1}, {T}, Sacrifice a creature: Return target artifact card from your graveyard to your hand.
+{1}, {T}, Sacrifice an artifact: Draw a card.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Trained Condor
+Cost:	 2U
+Type:	 Creature — Bird
+Pow/Tgh:	 (2/1)
+Rules Text:	 Flying
+Whenever Trained Condor attacks, another target creature you control gains flying until end of turn.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Traumatize
+Cost:	 3UU
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 Target player puts the top half of his or her library, rounded down, into his or her graveyard.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Trollhide
+Cost:	 2G
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant creature
+Enchanted creature gets +2/+2 and has "{1}{G}: Regenerate this creature." (The next time the creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Undead Minotaur
+Cost:	 2B
+Type:	 Creature — Zombie Minotaur
+Pow/Tgh:	 (2/3)
+Rules Text:	
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Vampire Warlord
+Cost:	 4B
+Type:	 Creature — Vampire Warrior
+Pow/Tgh:	 (4/2)
+Rules Text:	 Sacrifice another creature: Regenerate Vampire Warlord. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Vastwood Hydra
+Cost:	 XGG
+Type:	 Creature — Hydra
+Pow/Tgh:	 (0/0)
+Rules Text:	 Vastwood Hydra enters the battlefield with X +1/+1 counters on it.
+When Vastwood Hydra dies, you may distribute a number of +1/+1 counters equal to the number of +1/+1 counters on Vastwood Hydra among any number of creatures you control.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Verdant Haven
+Cost:	 2G
+Type:	 Enchantment — Aura
+Pow/Tgh:	
+Rules Text:	 Enchant land
+When Verdant Haven enters the battlefield, you gain 2 life.
+Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool (in addition to the mana the land produces).
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Vial of Poison
+Cost:	 1
+Type:	 Artifact
+Pow/Tgh:	
+Rules Text:	 {1}, Sacrifice Vial of Poison: Target creature gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Vile Rebirth
+Cost:	 B
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Exile target creature card from a graveyard. Put a 2/2 black Zombie creature token onto the battlefield.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Volcanic Geyser
+Cost:	 XRR
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Volcanic Geyser deals X damage to target creature or player.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Voracious Wurm
+Cost:	 1G
+Type:	 Creature — Wurm
+Pow/Tgh:	 (2/2)
+Rules Text:	 Voracious Wurm enters the battlefield with X +1/+1 counters on it, where X is the amount of life you've gained this turn.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Wall of Frost
+Cost:	 1UU
+Type:	 Creature — Wall
+Pow/Tgh:	 (0/7)
+Rules Text:	 Defender (This creature can't attack.)
+Whenever Wall of Frost blocks a creature, that creature doesn't untap during its controller's next untap step.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Wall of Swords
+Cost:	 3W
+Type:	 Creature — Wall
+Pow/Tgh:	 (3/5)
+Rules Text:	 Defender (This creature can't attack.)
+Flying
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Warden of Evos Isle
+Cost:	 2U
+Type:	 Creature — Bird Wizard
+Pow/Tgh:	 (2/2)
+Rules Text:	 Flying
+Creature spells with flying you cast cost {1} less to cast.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Water Servant
+Cost:	 2UU
+Type:	 Creature — Elemental
+Pow/Tgh:	 (3/4)
+Rules Text:	 {U}: Water Servant gets +1/-1 until end of turn.
+{U}: Water Servant gets -1/+1 until end of turn.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Wild Guess
+Cost:	 RR
+Type:	 Sorcery
+Pow/Tgh:	
+Rules Text:	 As an additional cost to cast Wild Guess, discard a card.
+Draw two cards.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Wild Ricochet
+Cost:	 2RR
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 You may choose new targets for target instant or sorcery spell. Then copy that spell. You may choose new targets for the copy.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Windreader Sphinx
+Cost:	 5UU
+Type:	 Creature — Sphinx
+Pow/Tgh:	 (3/7)
+Rules Text:	 Flying
+Whenever a creature with flying attacks, you may draw a card.
+Set/Rarity:	 Magic 2014 Core Set Mythic Rare
+
+Name	Windstorm
+Cost:	 XG
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Windstorm deals X damage to each creature with flying.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Witchstalker
+Cost:	 1GG
+Type:	 Creature — Wolf
+Pow/Tgh:	 (3/3)
+Rules Text:	 Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Whenever an opponent casts a blue or black spell during your turn, put a +1/+1 counter on Witchstalker.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Woodborn Behemoth
+Cost:	 3GG
+Type:	 Creature — Elemental
+Pow/Tgh:	 (4/4)
+Rules Text:	 As long as you control eight or more lands, Woodborn Behemoth gets +4/+4 and has trample. (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Wring Flesh
+Cost:	 B
+Type:	 Instant
+Pow/Tgh:	
+Rules Text:	 Target creature gets -3/-1 until end of turn.
+Set/Rarity:	 Magic 2014 Core Set Common
+
+Name	Xathrid Necromancer
+Cost:	 2B
+Type:	 Creature — Human Wizard
+Pow/Tgh:	 (2/2)
+Rules Text:	 Whenever Xathrid Necromancer or another Human creature you control dies, put a 2/2 black Zombie creature token onto the battlefield tapped.
+Set/Rarity:	 Magic 2014 Core Set Rare
+
+Name	Young Pyromancer
+Cost:	 1R
+Type:	 Creature — Human Shaman
+Pow/Tgh:	 (2/1)
+Rules Text:	 Whenever you cast an instant or sorcery spell, put a 1/1 red Elemental creature token onto the battlefield.
+Set/Rarity:	 Magic 2014 Core Set Uncommon
+
+Name	Zephyr Charge
+Cost:	 1U
+Type:	 Enchantment
+Pow/Tgh:	
+Rules Text:	 {1}{U}: Target creature gains flying until end of turn.
+Set/Rarity:	 Magic 2014 Core Set Common
