@@ -215,11 +215,11 @@ elif door == "3":
 				print credits
 			elif wdoor == "3":
 				print line
-				"You see a giant robot and the door locks behind you"
-				"You see three weapons."
-				"1-plasma cannon"
-				"2-feather"
-				"3-Light-Sabre"
+				print "You see a giant robot and the door locks behind you"
+				print "You see three weapons."
+				print "1-plasma cannon"
+				print "2-feather"
+				print "3-Light-Sabre"
 				
 				fakeboss1 = raw_input('YOU CAN DO THIS!!!>>>')
 				
@@ -264,7 +264,7 @@ elif door == "3":
 						print line
 						print "You use the pepper spray"
 						print "You make it really MAD and it ZAPS you."
-						print "You are lost that staring contest... GAME OVER!"
+						print "You lost that staring contest... GAME OVER!"
 						print credits
 					elif boss3 == "2":
 						print line
