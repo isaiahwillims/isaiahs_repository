@@ -519,4 +519,3 @@ elif door == "4":
 	print "You darted out of the house screaming at the top of your lungs!"
 	print "Game Over... a least you did not die..."
 	print credits
-						print
