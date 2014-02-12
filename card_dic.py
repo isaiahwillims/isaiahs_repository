@@ -7,11 +7,31 @@
 #                                 'Set/Rarity': 'Magic 2014 Core Set Rare'},
 #                 'Woodborn Behemoth': } 
 
+mtgcards = {}
+cardstat = {}
 
 file = open('magic_cards.txt', 'U')
 for line in file:
-    name = line.split('\t')[1]
-    cards[name] = card_info
+	card_info = line.split('\t')
+	if card_info[0] == 'Cost:':
+ 		cardstat['cost'] = card_info[1]
+	elif card_info[0] == 'Type:':
+		cardstat['type'] = card_info[1]
+	elif card_info[0] == 'Pow/Tgh:':
+ 		cardstat['P/T'] = card_info[1]
+	elif card_info[0] == 'Rules Text:':
+ 		cardstat['Efects'] = card_info[1]
+	elif card_info[0] == 'Set/Rarity:':
+ 		cardstat['Set/Rareity'] = card_info[1]
+ # for line in file:
+#  	card_name = line.split('\t')
+#  	for each Name in card_name:
+#  		mtgcards[] = card_name
+	
+print cardstat
+
+#     name = line.split('\t')[1]
+#     cards[name] = card_info
 
 # 
 # cards = {}
