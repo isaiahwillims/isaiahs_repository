@@ -13,23 +13,26 @@ cardstat = {}
 file = open('magic_cards.txt', 'U')
 for line in file:
 	card_info = line.split('\t')
-	if card_info[0] == 'Cost:':
- 		cardstat['cost'] = card_info[1]
+	if card_info[0] == 'Card Name:': # Need help Here!!!!!
+		mtgcards['name'] = card_info[1] # and here!!!!!
+	elif card_info[0] == 'Cost:':
+		cardstat['cost'] = card_info[1]
 	elif card_info[0] == 'Type:':
 		cardstat['type'] = card_info[1]
 	elif card_info[0] == 'Pow/Tgh:':
- 		cardstat['P/T'] = card_info[1]
+		cardstat['P/T'] = card_info[1]
 	elif card_info[0] == 'Rules Text:':
- 		cardstat['Efects'] = card_info[1]
+		cardstat['Efects'] = card_info[1]
 	elif card_info[0] == 'Set/Rarity:':
  		cardstat['Set/Rareity'] = card_info[1]
- # for line in file:
-#  	card_name = line.split('\t')
-#  	for each Name in card_name:
-#  		mtgcards[] = card_name
-	
+#file = open('magic_cards.txt', 'U')
+#for line in file: #isn't working
+#	card_name = line.split('\t') # It adds nothing to dictionary
+#	if card_name[0] == 'Name:': #
+#		mtgcards['name'] = card_name[1]	#
 print cardstat
-
+print "**********************"
+print mtgcards
 #     name = line.split('\t')[1]
 #     cards[name] = card_info
 
