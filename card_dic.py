@@ -13,8 +13,8 @@ cardstat = {}
 file = open('magic_cards.txt', 'U')
 for line in file:
 	card_info = line.split('\t')
-	if card_info[0] == 'Card Name:': # Need help Here!!!!!
-		mtgcards['name'] = card_info[1] # and here!!!!!
+	if card_info[0] == 'Name': 
+		mtgcards['name'] = card_info[1]
 	elif card_info[0] == 'Cost:':
 		cardstat['cost'] = card_info[1]
 	elif card_info[0] == 'Type:':
