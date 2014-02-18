@@ -30,13 +30,14 @@ VALUABLE ODDILY AMAZINGLY SURPRIZING PRIZE'
 -Good Luck
 """
 print "********************"
-print "You enter the house and see 3 doors. What do you do?"
-print """
+start = """
+You enter the house and see 3 doors. What do you do?
 1-Enter door 1
 2-Enter door 2
 3-Enter door 3
 4-Run away screaming at the top of your lungs!
 """
+print start
 
 door = raw_input("Choose Wisely>>>")
 
