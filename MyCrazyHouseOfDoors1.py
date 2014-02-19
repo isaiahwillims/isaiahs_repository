@@ -1,6 +1,6 @@
 import random
 
-prize = ['head exploding', 'poop pie', 'free ride on the exploading rocket train', 'pet little floppy tongue ghost', 'book of insults', 'book of jokes', 'map of the way out of the house', 'magical bubble gum', 'enchanted tooth pick', 'used toilet paper', 'moldy sandwich', 'Excalibur', 'head chopped off and mounted on a steak', 'rotten brain', 'chest of gold', 'dragon statue', 'friendly dragon to fly on', 'HUG!', 'GIANT dimond', 'pet sea serpent', 'baby parasite that is going to eat your braens', 'worst videogame ever', 'random, shreaded, common traiding card', 'jar of dirt']
+prize = ['Lightning Chariot', 'head exploding', 'poop pie', 'free ride on the exploading rocket train', 'pet little floppy tongue ghost', 'book of insults', 'book of jokes', 'map of the way out of the house', 'magical bubble gum', 'enchanted tooth pick', 'used toilet paper', 'moldy sandwich', 'Excalibur', 'head chopped off and mounted on a steak', 'rotten brain', 'chest of gold', 'dragon statue', 'friendly dragon to fly on', 'HUG!', 'GIANT dimond', 'pet sea serpent', 'baby parasite that is going to eat your braens', 'worst videogame ever', 'random, shreaded, common traiding card', 'jar of dirt']
 
 reward = random.choice(prize)
 
