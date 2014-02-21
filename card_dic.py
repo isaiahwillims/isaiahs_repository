@@ -1,5 +1,3 @@
-#!!!!!How do I thread a dictionary into a dictionary?!!!!!
-
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
@@ -14,47 +12,37 @@ cardname = {}
 cardstat = {}
 
 file = open('magic_cards.txt', 'U')
-for line in file:
-	card_info = line.split('\t')
-	if card_info[0] == 'Name': 
-		cardname[card_info[1]] = card_info[1]
-	elif card_info[0] == 'Cost:':
-		cardstat['cost'] = card_info[1]
-	elif card_info[0] == 'Type:':
-		cardstat['type'] = card_info[1]
-	elif card_info[0] == 'Pow/Tgh:':
-		cardstat['P/T'] = card_info[1]
-	elif card_info[0] == 'Rules Text:':
-		cardstat['Efects'] = card_info[1]
-	elif card_info[0] == 'Set/Rarity:':
- 		cardstat['Set/Rarity'] = card_info[1]
+def get_card_dictionary(file)
+    for line in file:
+        card_info = line.split('\t')
+        if card_info[0] == 'Name': 
+            cardname[card_info[1]] = {}
+            cardstat = cardname[card_info[1]]
+            cardstat['Name'] = card_info[1]
+        elif card_info[0] == 'Cost:':
+            cardstat['cost'] = card_info[1]
+        elif card_info[0] == 'Type:':
+            cardstat['type'] = card_info[1]
+        elif card_info[0] == 'Pow/Tgh:':
+            cardstat['P/T'] = card_info[1]
+        elif card_info[0] == 'Rules Text:':
+            cardstat['Efects'] = card_info[1]
+        elif card_info[0] == 'Set/Rarity:':
+            cardstat['Set/Rarity'] = card_info[1]
 
-#for entry in cardstat:
-#	cardname[cardstat['cost']]
 
-#file = open('magic_cards.txt', 'U')
-#for line in file: #isn't working
-#	card_name = line.split('\t') # It adds nothing to dictionary
-#	if card_name[0] == 'Name:': #
-#		mtgcards['name'] = card_name[1]	#
-print "**********************"
-print cardstat
-print "**********************"
-print cardname
+cards, values = cardname.items()
 
-#     name = line.split('\t')[1]
-#     cards[name] = card_info
+#add a card to the end of a list
+cards.append(card)
+#insert a card into a specific place in the deck
+cards.insert(0, card)
+#remove the last card form the deck and return it
+cards.pop()
+
+
 
 # 
-# cards = {}
-# card_info = {}
-# #Add an item to a dictionary
-# cards['key'] = 'value'
-# card_info['Cost'] = '1R' 
-# cards['Dragon Hatchling'] = card_info
-# 
-# file = open('file_name', 'U')
-# 
-# def get_card_dictionary(file):
-#     for line in file:
-#     return card_dictionary
+# def is_valid_deck(deck):
+#     if deck.count('some card')
+#         return "deck not valid!"
