@@ -33,6 +33,7 @@ for line in file:
 #print "***************************************************"			
 #print cardname
 print "***************************************************"
+
 #cards, values = cardname.items()
 
 #add a card to the end of a list
@@ -50,11 +51,15 @@ Red_Blue_Burst = [cardname['Divination\n'], cardname['Divination\n'], cardname['
 
 deck = Red_Blue_Burst
 
-Basic = [cardname['Island\n'], cardname['Plains\n'], cardname['Forest\n'], cardname['Swamp\n']]
+#deck = ['Cancel\n' * 3, 'Divination\n' * 5]
+
+Basic = [cardname['Mountain\n'] ,cardname['Island\n'], cardname['Plains\n'], cardname['Forest\n'], cardname['Swamp\n']]
 
 def is_valid_deck(deck):
-    if ('some card') != Basic:
-		deck.count('some card') > 4
-		print "deck not valid!"
+    if ('card') != Basic:
+		if deck.count('card') > 4:
+			print "deck not valid!"
+		else:
+			print "deck valid"
 		
 print is_valid_deck(deck)
