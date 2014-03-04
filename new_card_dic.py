@@ -42,13 +42,20 @@ print "***************************************************"
 
 #open('magic_decks.py','U')
 
-Red_Blue_Burst = [cardname['Divination'], cardname['Divination'], cardname['Divination\n'], cardname['Divination\n'], cardname['Shock\n'], cardname['Shock\n'], cardname['Shock\n'], cardname['Shock\n'], cardname['Cancel\n'], cardname['Cancel\n'], cardname['Cancel\n'], cardname['Cancel\n'], cardname['Molten Birth\n'], cardname['Molten Birth\n'], cardname['Molten Birth\n'], cardname['Molten Birth\n'], cardname['Young Pyromancer\n'], cardname['Young Pyromancer\n'], cardname['Young Pyromancer\n'], cardname['Young Pyromancer\n'], cardname['Disperse\n'], cardname['Disperse\n'], cardname['Disperse\n'], cardname['Disperse\n'], cardname['Wild Guess\n'], cardname['Wild Guess\n'], cardname['Wild Guess\n'], cardname['Wild Guess\n'], cardname['Archaeomancer\n'], cardname['Archaeomancer\n'], cardname['Archaeomancer\n'], cardname['Archaeomancer\n'], cardname['Colossal Whale\n'], cardname['Colossal Whale\n'], cardname['Ogre Battledriver\n'], cardname['Ogre Battledriver\n'], cardname['Mountain\n'], cardname['Mountain\n'], cardname['Mountain\n'], cardname['Mountain\n'], cardname['Mountain\n'], cardname['Mountain\n'], cardname['Mountain\n'], cardname['Mountain\n'], cardname['Mountain\n'], cardname['Mountain\n'], cardname['Mountain\n'], cardname['Mountain\n'], cardname['Island\n'], cardname['Island\n'], cardname['Island\n'], cardname['Island\n'], cardname['Island\n'], cardname['Island\n'], cardname['Island\n'], cardname['Island\n'], cardname['Island\n'], cardname['Island\n'], cardname['Island\n'], cardname['Island\n']]
-
-print Red_Blue_Burst
+#Red_Blue_Burst = [cardname['Divination'], cardname['Divination'], cardname['Divination\n'], cardname['Divination\n'], cardname['Shock\n'], cardname['Shock\n'], cardname['Shock\n'], cardname['Shock\n'], cardname['Cancel\n'], cardname['Cancel\n'], cardname['Cancel\n'], cardname['Cancel\n'], cardname['Molten Birth\n'], cardname['Molten Birth\n'], cardname['Molten Birth\n'], cardname['Molten Birth\n'], cardname['Young Pyromancer\n'], cardname['Young Pyromancer\n'], cardname['Young Pyromancer\n'], cardname['Young Pyromancer\n'], cardname['Disperse\n'], cardname['Disperse\n'], cardname['Disperse\n'], cardname['Disperse\n'], cardname['Wild Guess\n'], cardname['Wild Guess\n'], cardname['Wild Guess\n'], cardname['Wild Guess\n'], cardname['Archaeomancer\n'], cardname['Archaeomancer\n'], cardname['Archaeomancer\n'], cardname['Archaeomancer\n'], cardname['Colossal Whale\n'], cardname['Colossal Whale\n'], cardname['Ogre Battledriver\n'], cardname['Ogre Battledriver\n'], cardname['Mountain\n'], cardname['Mountain\n'], cardname['Mountain\n'], cardname['Mountain\n'], cardname['Mountain\n'], cardname['Mountain\n'], cardname['Mountain\n'], cardname['Mountain\n'], cardname['Mountain\n'], cardname['Mountain\n'], cardname['Mountain\n'], cardname['Mountain\n'], cardname['Island\n'], cardname['Island\n'], cardname['Island\n'], cardname['Island\n'], cardname['Island\n'], cardname['Island\n'], cardname['Island\n'], cardname['Island\n'], cardname['Island\n'], cardname['Island\n'], cardname['Island\n'], cardname['Island\n']]
 
 #deck = ['Cancel\n' * 3, 'Divination\n' * 5]
 
-Basic = [cardname['Mountain\n'] ,cardname['Island\n'], cardname['Plains\n'], cardname['Forest\n'], cardname['Swamp\n']]
+Basic = [cardname['Mountain'] ,cardname['Island'], cardname['Plains'], cardname['Forest'], cardname['Swamp']]
+
+deck = open('Red_Blue_Burst.Deck', 'U')
+#def deck_list_reader(deck):
+for line in deck:
+    card = line.strip().split('\t')
+    if line contains'#':
+        continue
+
+print card
 
 # def is_valid_deck(deck):
 #     if ('card') != Basic:
