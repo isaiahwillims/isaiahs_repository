@@ -1,22 +1,12 @@
-#Deck_Name: 'Red Blue Burst'
-#Format: Casual
-#Deck_Size: 60
-
-#Creatures:	12
-	'Ogre Battledriver':	2
-	'Colossal Whale':	2
-	'Young Pyromancer':	4
-	'Archaeomancer':	4
-#Other:	24
-	'Divination':	4
-	'Shock':	4
-	'Cancel':	4
-	'Molten Birth':	4
-	'Disperse':	4
-	'Wild Guess':	4
-#Lands:	24
-	'Island':	12
-	'Mountain':	12
-
-
-#Description: "Control the battlefield until you can create an army. Use cards like 'Cancel', 'Disperse', and 'Shock' to keep your foes from doing anything why 'Young Pyromancer' and 'Molten Birth' generate an army of tokens! 'Archaeomancer', 'Wild Guess', and 'Divination' help you get exactly the cards you need. Finally, 'Ogre Battledriver' and 'Colossal Whale' win you the game!
+Ogre Battledriver	2
+Colossal Whale	2
+Young Pyromancer	4
+Archaeomancer	4
+Divination	4
+Shock	4
+Cancel	4
+Molten Birth	4
+Disperse	4
+Wild Guess	4
+Island	12
+Mountain	12

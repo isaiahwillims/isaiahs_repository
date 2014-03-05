@@ -46,15 +46,24 @@ print "***************************************************"
 
 #deck = ['Cancel\n' * 3, 'Divination\n' * 5]
 
-Basic = [cardname['Mountain'] ,cardname['Island'], cardname['Plains'], cardname['Forest'], cardname['Swamp']]
+#Basic = [cardname['Mountain'] ,cardname['Island'], cardname['Plains'], cardname['Forest'], cardname['Swamp']]
+
+basic = ['Mountain', 'Island', 'Plains', 'Forest', 'Swamp']
+
+legal = ['1', '2', '3', '4']
 
 deck = open('Red_Blue_Burst.Deck', 'U')
 #def deck_list_reader(deck):
 for line in deck:
     card = line.strip().split('\t')
-    if line contains'#':
+    if card[0] == basic:
         continue
+    if card[1] == legal:
+        print "Deck valid :)"
+    else:
+        print "!!!Deck not valid!!!"
 
+print "*" * 50
 print card
 
 # def is_valid_deck(deck):
