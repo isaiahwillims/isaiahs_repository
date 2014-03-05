@@ -46,7 +46,7 @@ print "***************************************************"
 
 #deck = ['Cancel\n' * 3, 'Divination\n' * 5]
 
-#Basic = [cardname['Mountain'] ,cardname['Island'], cardname['Plains'], cardname['Forest'], cardname['Swamp']]
+#Basic = [cardname['Mountain'], cardname['Island'], cardname['Plains'], cardname['Forest'], cardname['Swamp']]
 
 basic = ['Mountain', 'Island', 'Plains', 'Forest', 'Swamp']
 
