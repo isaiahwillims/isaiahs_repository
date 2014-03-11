@@ -37,7 +37,7 @@ def validate_deck(deck, basic, legal):
 def pull_deck_from_dic(deck, cardname):
     for line in deck:
         card = line.strip().split('\t')
-        print cardname(card[0])
+        print cardname[card[0]]
 
 # print "*" * 50
 # print card
