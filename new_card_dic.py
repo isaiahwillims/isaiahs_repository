@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+import random
+
+from sys import argv
+
 def get_card_dic(file):
     cardname = {}
     cardstat = {}
@@ -41,27 +45,33 @@ def pull_deck_from_dic(deck, cardname):
         for i in range(int(card[1])):
             cards.append(card[0])
     return cards
-#        print cardname[card[0]]
-
-# print "*" * 50
-# print card
+    
+def play_first(x, deck):
+    players = range(1, (x+1))
+    play1 = choice(players)
+    
+def draw_hand(deck):
+    hand = deck[:7]
+    del deck[:7]
+    return hand, deck
+    
+def scryx(deck, x):
+    return deck[:x]
 
 def main():
+
+    script_name, deck, card_info = argv
 
     basic = ['Mountain', 'Island', 'Plains', 'Forest', 'Swamp']
     legal = ['1', '2', '3', '4']
     
-    file = open('magic_cards.txt', 'U')
+    file = open(card_info, 'U')
     cardname = get_card_dic(file)
     
-    deck = open('Red_Blue_Burst.Deck', 'U')
-#    deck = open('test.Deck', 'U')
-#     print validate_deck(deck, basic, legal)
+    deck = open(deck, 'U')
     my_deck = pull_deck_from_dic(deck, cardname)
     print my_deck
 
-#Ogre Battledriver	2
-#Colossal Whale	2
 
 if __name__ == "__main__":
     main()
