@@ -35,9 +35,13 @@ def validate_deck(deck, basic, legal):
     return "Deck valid! :)"
 
 def pull_deck_from_dic(deck, cardname):
+    cards = []
     for line in deck:
         card = line.strip().split('\t')
-        print cardname[card[0]]
+        for i in range(int(card[1])):
+            cards.append(card[0])
+    return cards
+#        print cardname[card[0]]
 
 # print "*" * 50
 # print card
@@ -53,7 +57,8 @@ def main():
     deck = open('Red_Blue_Burst.Deck', 'U')
 #    deck = open('test.Deck', 'U')
 #     print validate_deck(deck, basic, legal)
-    pull_deck_from_dic(deck, cardname)
+    my_deck = pull_deck_from_dic(deck, cardname)
+    print my_deck
 
 #Ogre Battledriver	2
 #Colossal Whale	2
