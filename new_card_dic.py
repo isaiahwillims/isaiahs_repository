@@ -37,6 +37,12 @@ def validate_deck(deck, basic, legal):
             return "!!!Deck not valid!!!"
             exit
     return "Deck valid! :)"
+    
+# (do not delete) game play functions begin here
+
+def shufle_deck(my_deck):
+    my_deck = random.shuffle(my_deck)
+    return my_deck
 
 def pull_deck_from_dic(deck, cardname):
     cards = []
@@ -46,22 +52,29 @@ def pull_deck_from_dic(deck, cardname):
             cards.append(card[0])
     return cards
     
-def play_first(x, deck):
+def play_first(x, my_deck):
     players = range(1, (x+1))
     play1 = choice(players)
     
-def draw_hand(deck):
-    hand = deck[:7]
-    del deck[:7]
-    return hand, deck
+def draw_hand(my_deck): # line "Hand=" and "Deck =" used for trouble shooting.
+    line = "*" * 25
+    hand = my_deck[:7]
+    del my_deck[:7]
+    return "Hand=", hand, line, "Deck=", my_deck 
     
-def scryx(deck, x):
-    return deck[:x]
+def scryx(my_deck, x):
+    return my_deck[:x]
+
+def gameplay(my_deck):
+    shufle_deck(my_deck)
+    handsim = draw_hand(my_deck)
+    return handsim
+# (do not delete) game play functions end here....
 
 def main():
 
     script_name, deck, card_info = argv
-
+    
     basic = ['Mountain', 'Island', 'Plains', 'Forest', 'Swamp']
     legal = ['1', '2', '3', '4']
     
@@ -70,8 +83,11 @@ def main():
     
     deck = open(deck, 'U')
     my_deck = pull_deck_from_dic(deck, cardname)
-    print my_deck
-
+    
+    shufle = shufle_deck(my_deck)
+    handsim = draw_hand(my_deck)    
+    play = gameplay(my_deck)
+    print gameplay(my_deck)
 
 if __name__ == "__main__":
     main()
