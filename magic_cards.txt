@@ -1744,3 +1744,2158 @@ Type:	 Enchantment
 Pow/Tgh:	
 Rules Text:	 {1}{U}: Target creature gains flying until end of turn.
 Set/Rarity:	 Magic 2014 Core Set Common
+
+Name 	Air Elemental 
+ Cost: 	 3UU 
+ Type: 	 Creature — Elemental 
+ Pow/Tgh: 	 (4/4) 
+ Rules Text: 	 Flying 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Ancestral Recall 
+ Cost: 	 U 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Target player draws three cards. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Animate Artifact 
+ Cost: 	 3U 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant artifact
+ As long as enchanted artifact isn't a creature, it's an artifact creature with power and toughness each equal to its converted mana cost. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Animate Dead 
+ Cost: 	 1B 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature card in a graveyard
+ When Animate Dead enters the battlefield, if it's on the battlefield, it loses "enchant creature card in a graveyard" and gains "enchant creature put onto the battlefield with Animate Dead." Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it.
+ Enchanted creature gets -1/-0. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Animate Wall 
+ Cost: 	 W 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant Wall
+ Enchanted Wall can attack as though it didn't have defender. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Ankh of Mishra 
+ Cost: 	 2 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 Whenever a land enters the battlefield, Ankh of Mishra deals 2 damage to that land's controller. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Armageddon 
+ Cost: 	 3W 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Destroy all lands. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Aspect of Wolf 
+ Cost: 	 1G 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature
+ Enchanted creature gets +X/+Y, where X is half the number of Forests you control, rounded down, and Y is half the number of Forests you control, rounded up. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Bad Moon 
+ Cost: 	 1B 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 Black creatures get +1/+1. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Badlands 
+ Cost: 	
+ Type: 	 Land — Swamp Mountain 
+ Pow/Tgh: 	
+ Rules Text: 	
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Balance 
+ Cost: 	 1W 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Each player chooses a number of lands he or she controls equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Basalt Monolith 
+ Cost: 	 3 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 Basalt Monolith doesn't untap during your untap step.
+ {T}: Add {3} to your mana pool.
+ {3}: Untap Basalt Monolith. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Bayou 
+ Cost: 	
+ Type: 	 Land — Swamp Forest 
+ Pow/Tgh: 	
+ Rules Text: 	
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Benalish Hero 
+ Cost: 	 W 
+ Type: 	 Creature — Human Soldier 
+ Pow/Tgh: 	 (1/1) 
+ Rules Text: 	 Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.) 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Berserk 
+ Cost: 	 G 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Cast Berserk only before the combat damage step.
+ Target creature gains trample and gets +X/+0 until end of turn, where X is its power. At the beginning of the next end step, destroy that creature if it attacked this turn. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Birds of Paradise 
+ Cost: 	 G 
+ Type: 	 Creature — Bird 
+ Pow/Tgh: 	 (0/1) 
+ Rules Text: 	 Flying
+ {T}: Add one mana of any color to your mana pool. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Black Knight 
+ Cost: 	 BB 
+ Type: 	 Creature — Human Knight 
+ Pow/Tgh: 	 (2/2) 
+ Rules Text: 	 First strike (This creature deals combat damage before creatures without first strike.)
+ Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.) 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Black Lotus 
+ Cost: 	 0 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 {T}, Sacrifice Black Lotus: Add three mana of any one color to your mana pool. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Black Vise 
+ Cost: 	 1 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 As Black Vise enters the battlefield, choose an opponent.
+ At the beginning of the chosen player's upkeep, Black Vise deals X damage to that player, where X is the number of cards in his or her hand minus 4. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Black Ward 
+ Cost: 	 W 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature
+ Enchanted creature has protection from black. This effect doesn't remove Black Ward. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Blaze of Glory 
+ Cost: 	 W 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Cast Blaze of Glory only during combat before blockers are declared.
+ Target creature defending player controls can block any number of creatures this turn. It blocks each attacking creature this turn if able. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Blessing 
+ Cost: 	 WW 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature
+ {W}: Enchanted creature gets +1/+1 until end of turn. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Blue Elemental Blast 
+ Cost: 	 U 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Choose one — Counter target red spell; or destroy target red permanent. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Blue Ward 
+ Cost: 	 W 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature
+ Enchanted creature has protection from blue. This effect doesn't remove Blue Ward. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Bog Wraith 
+ Cost: 	 3B 
+ Type: 	 Creature — Wraith 
+ Pow/Tgh: 	 (3/3) 
+ Rules Text: 	 Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.) 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Braingeyser 
+ Cost: 	 XUU 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Target player draws X cards. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+
+ Name 	Burrowing 
+ Cost: 	 R 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature
+ Enchanted creature has mountainwalk. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+
+ Name 	Camouflage 
+ Cost: 	 G 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Cast Camouflage only during your declare attackers step.
+ This turn, instead of declaring blockers, each defending player chooses any number of creatures he or she controls and divides them into a number of piles equal to the number of attacking creatures for whom that player is the defending player. Creatures he or she controls that can block additional creatures may likewise be put into additional piles. Assign each pile to a different one of those attacking creatures at random. Each creature in a pile that can block the creature that pile is assigned to does so. (Piles can be empty.) 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Castle 
+ Cost: 	 3W 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 Untapped creatures you control get +0/+2. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+
+ Name 	Celestial Prism 
+ Cost: 	 3 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 {2}, {T}: Add one mana of any color to your mana pool. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Channel 
+ Cost: 	 GG 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add {1} to your mana pool. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Chaos Orb 
+ Cost: 	 2 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 {1}, {T}: If Chaos Orb is on the battlefield, flip Chaos Orb onto the battlefield from a height of at least one foot. If Chaos Orb turns over completely at least once during the flip, destroy all nontoken permanents it touches. Then destroy Chaos Orb. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Chaoslace 
+ Cost: 	 R 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Target spell or permanent becomes red. (Its mana symbols remain unchanged.) 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Circle of Protection : Blue (Circle of Protection: Blue) 
+ Cost: 	 1W 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 {1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Circle of Protection : Green (Circle of Protection: Green) 
+ Cost: 	 1W 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 {1}: The next time a green source of your choice would deal damage to you this turn, prevent that damage. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Circle of Protection : Red (Circle of Protection: Red) 
+ Cost: 	 1W 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 {1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Circle of Protection : White (Circle of Protection: White) 
+ Cost: 	 1W 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 {1}: The next time a white source of your choice would deal damage to you this turn, prevent that damage. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Clockwork Beast 
+ Cost: 	 6 
+ Type: 	 Artifact Creature — Beast 
+ Pow/Tgh: 	 (0/4) 
+ Rules Text: 	 Clockwork Beast enters the battlefield with seven +1/+0 counters on it.
+ At end of combat, if Clockwork Beast attacked or blocked this combat, remove a +1/+0 counter from it.
+ {X}, {T}: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate this ability only during your upkeep. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Clone 
+ Cost: 	 3U 
+ Type: 	 Creature — Shapeshifter 
+ Pow/Tgh: 	 (0/0) 
+ Rules Text: 	 You may have Clone enter the battlefield as a copy of any creature on the battlefield. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Cockatrice 
+ Cost: 	 3GG 
+ Type: 	 Creature — Cockatrice 
+ Pow/Tgh: 	 (2/4) 
+ Rules Text: 	 Flying
+ Whenever Cockatrice blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Consecrate Land 
+ Cost: 	 W 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant land
+ Enchanted land has indestructible and can't be enchanted by other Auras. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Conservator 
+ Cost: 	 4 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 {3}, {T}: Prevent the next 2 damage that would be dealt to you this turn. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Contract from Below 
+ Cost: 	 B 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Remove Contract from Below from your deck before playing if you're not playing for ante.
+ Discard your hand, add the top card of your library to the ante, then draw seven cards. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Control Magic 
+ Cost: 	 2UU 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature
+ You control enchanted creature. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Conversion 
+ Cost: 	 2WW 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 At the beginning of your upkeep, sacrifice Conversion unless you pay {W}{W}.
+ All Mountains are Plains. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Copper Tablet 
+ Cost: 	 2 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 At the beginning of each player's upkeep, Copper Tablet deals 1 damage to that player. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Copy Artifact 
+ Cost: 	 1U 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 You may have Copy Artifact enter the battlefield as a copy of any artifact on the battlefield, except it's an enchantment in addition to its other types. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Counterspell 
+ Cost: 	 UU 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Counter target spell. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Craw Wurm 
+ Cost: 	 4GG 
+ Type: 	 Creature — Wurm 
+ Pow/Tgh: 	 (6/4) 
+ Rules Text: 	
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Creature Bond 
+ Cost: 	 1U 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature
+ When enchanted creature dies, Creature Bond deals damage equal to that creature's toughness to the creature's controller. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Crusade 
+ Cost: 	 WW 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 White creatures get +1/+1. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Crystal Rod 
+ Cost: 	 1 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 Whenever a player casts a blue spell, you may pay {1}. If you do, you gain 1 life. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Cursed Land 
+ Cost: 	 2BB 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant land
+ At the beginning of the upkeep of enchanted land's controller, Cursed Land deals 1 damage to that player. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Cyclopean Tomb 
+ Cost: 	 4 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 {2}, {T}: Put a mire counter on target non-Swamp land. That land is a Swamp for as long as it has a mire counter on it. Activate this ability only during your upkeep.
+ When Cyclopean Tomb is put into a graveyard from the battlefield, at the beginning of each of your upkeeps for the rest of the game, remove all mire counters from a land that a mire counter was put onto with Cyclopean Tomb but that a mire counter has not been removed from with Cyclopean Tomb. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Dark Ritual 
+ Cost: 	 B 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Add {B}{B}{B} to your mana pool. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Darkpact 
+ Cost: 	 BBB 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Remove Darkpact from your deck before playing if you're not playing for ante.
+ You own target card in the ante. Exchange that card with the top card of your library. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Death Ward 
+ Cost: 	 W 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Regenerate target creature. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Deathgrip 
+ Cost: 	 BB 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 {B}{B}: Counter target green spell. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Deathlace 
+ Cost: 	 B 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Target spell or permanent becomes black. (Mana symbols on that permanent remain unchanged.) 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Demonic Attorney 
+ Cost: 	 1BB 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Remove Demonic Attorney from your deck before playing if you're not playing for ante.
+ Each player antes the top card of his or her library. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Demonic Hordes 
+ Cost: 	 3BBB 
+ Type: 	 Creature — Demon 
+ Pow/Tgh: 	 (5/5) 
+ Rules Text: 	 {T}: Destroy target land.
+ At the beginning of your upkeep, unless you pay {B}{B}{B}, tap Demonic Hordes and sacrifice a land of an opponent's choice. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Demonic Tutor 
+ Cost: 	 1B 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Search your library for a card and put that card into your hand. Then shuffle your library. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Dingus Egg 
+ Cost: 	 4 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Disenchant 
+ Cost: 	 1W 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Destroy target artifact or enchantment. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Disintegrate 
+ Cost: 	 XR 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Disintegrate deals X damage to target creature or player. That creature can't be regenerated this turn. If the creature would die this turn, exile it instead. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Disrupting Scepter 
+ Cost: 	 3 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 {3}, {T}: Target player discards a card. Activate this ability only during your turn. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Dragon Whelp 
+ Cost: 	 2RR 
+ Type: 	 Creature — Dragon 
+ Pow/Tgh: 	 (2/3) 
+ Rules Text: 	 Flying
+ {R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Drain Life 
+ Cost: 	 X1B 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Spend only black mana on X.
+ Drain Life deals X damage to target creature or player. You gain life equal to the damage dealt, but not more life than the player's life total before Drain Life dealt damage or the creature's toughness. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Drain Power 
+ Cost: 	 UU 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Target player activates a mana ability of each land he or she controls. Then put all mana from that player's mana pool into yours. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Drudge Skeletons 
+ Cost: 	 1B 
+ Type: 	 Creature — Skeleton 
+ Pow/Tgh: 	 (1/1) 
+ Rules Text: 	 {B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.) 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Dwarven Demolition Team 
+ Cost: 	 2R 
+ Type: 	 Creature — Dwarf 
+ Pow/Tgh: 	 (1/1) 
+ Rules Text: 	 {T}: Destroy target Wall. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Dwarven Warriors 
+ Cost: 	 2R 
+ Type: 	 Creature — Dwarf Warrior 
+ Pow/Tgh: 	 (1/1) 
+ Rules Text: 	 {T}: Target creature with power 2 or less can't be blocked this turn. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Earth Elemental 
+ Cost: 	 3RR 
+ Type: 	 Creature — Elemental 
+ Pow/Tgh: 	 (4/5) 
+ Rules Text: 	
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Earthbind 
+ Cost: 	 R 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature
+ When Earthbind enters the battlefield, if enchanted creature has flying, Earthbind deals 2 damage to that creature and Earthbind gains "Enchanted creature loses flying." 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Earthquake 
+ Cost: 	 XR 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Earthquake deals X damage to each creature without flying and each player. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Elvish Archers 
+ Cost: 	 1G 
+ Type: 	 Creature — Elf Archer 
+ Pow/Tgh: 	 (2/1) 
+ Rules Text: 	 First strike 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Evil Presence 
+ Cost: 	 B 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant land
+ Enchanted land is a Swamp. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	False Orders 
+ Cost: 	 R 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Cast False Orders only during the declare blockers step.
+ Remove target creature defending player controls from combat. Creatures it was blocking that had become blocked by only that creature this combat become unblocked. You may have it block an attacking creature of your choice. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Farmstead 
+ Cost: 	 WWW 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant land
+ Enchanted land has "At the beginning of your upkeep, you may pay {W}{W}. If you do, you gain 1 life." 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Fastbond 
+ Cost: 	 G 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 You may play any number of additional lands on each of your turns.
+ Whenever you play a land, if it wasn't the first land you played this turn, Fastbond deals 1 damage to you. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Fear 
+ Cost: 	 BB 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+ Enchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.) 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Feedback 
+ Cost: 	 2U 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant enchantment
+ At the beginning of the upkeep of enchanted enchantment's controller, Feedback deals 1 damage to that player. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Fire Elemental 
+ Cost: 	 3RR 
+ Type: 	 Creature — Elemental 
+ Pow/Tgh: 	 (5/4) 
+ Rules Text: 	
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Fireball 
+ Cost: 	 XR 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.
+ Fireball costs {1} more to cast for each target beyond the first. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Firebreathing 
+ Cost: 	 R 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature
+ {R}: Enchanted creature gets +1/+0 until end of turn. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Flashfires 
+ Cost: 	 3R 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Destroy all Plains. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Flight 
+ Cost: 	 U 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature
+ Enchanted creature has flying. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Fog 
+ Cost: 	 G 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Prevent all combat damage that would be dealt this turn. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Force of Nature 
+ Cost: 	 2GGGG 
+ Type: 	 Creature — Elemental 
+ Pow/Tgh: 	 (8/8) 
+ Rules Text: 	 Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)
+ At the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Forcefield 
+ Cost: 	 3 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 {1}: The next time an unblocked creature of your choice would deal combat damage to you this turn, prevent all but 1 of that damage. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Forest 
+ Cost: 	
+ Type: 	 Basic Land — Forest 
+ Pow/Tgh: 	
+ Rules Text: 	 G 
+ Set/Rarity: 	 Limited Edition Alpha Land, Limited Edition Alpha Land 
+
+ Name 	Fork 
+ Cost: 	 RR 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Copy target instant or sorcery spell, except that the copy is red. You may choose new targets for the copy. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Frozen Shade 
+ Cost: 	 2B 
+ Type: 	 Creature — Shade 
+ Pow/Tgh: 	 (0/1) 
+ Rules Text: 	 {B}: Frozen Shade gets +1/+1 until end of turn. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Fungusaur 
+ Cost: 	 3G 
+ Type: 	 Creature — Fungus Lizard 
+ Pow/Tgh: 	 (2/2) 
+ Rules Text: 	 Whenever Fungusaur is dealt damage, put a +1/+1 counter on it. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Gaea's Liege 
+ Cost: 	 3GGG 
+ Type: 	 Creature — Avatar 
+ Pow/Tgh: 	 (*/*) 
+ Rules Text: 	 As long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls.
+ {T}: Target land becomes a Forest until Gaea's Liege leaves the battlefield. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Gauntlet of Might 
+ Cost: 	 4 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 Red creatures get +1/+1.
+ Whenever a Mountain is tapped for mana, its controller adds {R} to his or her mana pool (in addition to the mana the land produces). 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Giant Growth 
+ Cost: 	 G 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Target creature gets +3/+3 until end of turn. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Giant Spider 
+ Cost: 	 3G 
+ Type: 	 Creature — Spider 
+ Pow/Tgh: 	 (2/4) 
+ Rules Text: 	 Reach (This creature can block creatures with flying.) 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Glasses of Urza 
+ Cost: 	 1 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 {T}: Look at target player's hand. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Gloom 
+ Cost: 	 2B 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 White spells cost {3} more to cast.
+ Activated abilities of white enchantments cost {3} more to activate. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Goblin Balloon Brigade 
+ Cost: 	 R 
+ Type: 	 Creature — Goblin Warrior 
+ Pow/Tgh: 	 (1/1) 
+ Rules Text: 	 {R}: Goblin Balloon Brigade gains flying until end of turn. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Goblin King 
+ Cost: 	 1RR 
+ Type: 	 Creature — Goblin 
+ Pow/Tgh: 	 (2/2) 
+ Rules Text: 	 Other Goblin creatures get +1/+1 and have mountainwalk. (They can't be blocked as long as defending player controls a Mountain.) 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Granite Gargoyle 
+ Cost: 	 2R 
+ Type: 	 Creature — Gargoyle 
+ Pow/Tgh: 	 (2/2) 
+ Rules Text: 	 Flying
+ {R}: Granite Gargoyle gets +0/+1 until end of turn. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Gray Ogre 
+ Cost: 	 2R 
+ Type: 	 Creature — Ogre 
+ Pow/Tgh: 	 (2/2) 
+ Rules Text: 	
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Green Ward 
+ Cost: 	 W 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature
+ Enchanted creature has protection from green. This effect doesn't remove Green Ward. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Grizzly Bears 
+ Cost: 	 1G 
+ Type: 	 Creature — Bear 
+ Pow/Tgh: 	 (2/2) 
+ Rules Text: 	
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Guardian Angel 
+ Cost: 	 XW 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Prevent the next X damage that would be dealt to target creature or player this turn. Until end of turn, you may pay {1} any time you could cast an instant. If you do, prevent the next 1 damage that would be dealt to that creature or player this turn. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Healing Salve 
+ Cost: 	 W 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Choose one — Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Helm of Chatzuk 
+ Cost: 	 1 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 {1}, {T}: Target creature gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.) 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Hill Giant 
+ Cost: 	 3R 
+ Type: 	 Creature — Giant 
+ Pow/Tgh: 	 (3/3) 
+ Rules Text: 	
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Holy Armor 
+ Cost: 	 W 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature
+ Enchanted creature gets +0/+2.
+ {W}: Enchanted creature gets +0/+1 until end of turn. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Holy Strength 
+ Cost: 	 W 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature
+ Enchanted creature gets +1/+2. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Howl from Beyond 
+ Cost: 	 XB 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Target creature gets +X/+0 until end of turn. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Howling Mine 
+ Cost: 	 2 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 At the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Hurloon Minotaur 
+ Cost: 	 1RR 
+ Type: 	 Creature — Minotaur 
+ Pow/Tgh: 	 (2/3) 
+ Rules Text: 	
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Hurricane 
+ Cost: 	 XG 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Hurricane deals X damage to each creature with flying and each player. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Hypnotic Specter 
+ Cost: 	 1BB 
+ Type: 	 Creature — Specter 
+ Pow/Tgh: 	 (2/2) 
+ Rules Text: 	 Flying
+ Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Ice Storm 
+ Cost: 	 2G 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Destroy target land. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Icy Manipulator 
+ Cost: 	 4 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 {1}, {T}: Tap target artifact, creature, or land. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Illusionary Mask 
+ Cost: 	 2 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 {X}: You may choose a creature card in your hand whose mana cost could be paid by some amount of, or all of, the mana you spent on {X}. If you do, you may cast that card face down as a 2/2 creature spell without paying its mana cost. If the creature that spell becomes as it resolves has not been turned face up and would assign or deal damage, be dealt damage, or become tapped, instead it's turned face up and assigns or deals damage, is dealt damage, or becomes tapped. Activate this ability only any time you could cast a sorcery. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Instill Energy 
+ Cost: 	 G 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature
+ Enchanted creature can attack as though it had haste.
+ {0}: Untap enchanted creature. Activate this ability only during your turn and only once each turn. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Invisibility 
+ Cost: 	 UU 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature
+ Enchanted creature can't be blocked except by Walls. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Iron Star 
+ Cost: 	 1 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 Whenever a player casts a red spell, you may pay {1}. If you do, you gain 1 life. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Ironclaw Orcs 
+ Cost: 	 1R 
+ Type: 	 Creature — Orc 
+ Pow/Tgh: 	 (2/2) 
+ Rules Text: 	 Ironclaw Orcs can't block creatures with power 2 or greater. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Ironroot Treefolk 
+ Cost: 	 4G 
+ Type: 	 Creature — Treefolk 
+ Pow/Tgh: 	 (3/5) 
+ Rules Text: 	
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Island 
+ Cost: 	
+ Type: 	 Basic Land — Island 
+ Pow/Tgh: 	
+ Rules Text: 	 U 
+ Set/Rarity: 	 Limited Edition Alpha Land, Limited Edition Alpha Land 
+
+ Name 	Island Sanctuary 
+ Cost: 	 1W 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 If you would draw a card during your draw step, instead you may skip that draw. If you do, until your next turn, you can't be attacked except by creatures with flying and/or islandwalk. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Ivory Cup 
+ Cost: 	 1 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 Whenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Jade Monolith 
+ Cost: 	 4 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 {1}: The next time a source of your choice would deal damage to target creature this turn, that source deals that damage to you instead. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Jade Statue 
+ Cost: 	 4 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 {2}: Jade Statue becomes a 3/6 Golem artifact creature until end of combat. Activate this ability only during combat. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Jayemdae Tome 
+ Cost: 	 4 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 {4}, {T}: Draw a card. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Juggernaut 
+ Cost: 	 4 
+ Type: 	 Artifact Creature — Juggernaut 
+ Pow/Tgh: 	 (5/3) 
+ Rules Text: 	 Juggernaut attacks each turn if able.
+ Juggernaut can't be blocked by Walls. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Jump 
+ Cost: 	 U 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Target creature gains flying until end of turn. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Karma 
+ Cost: 	 2WW 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 At the beginning of each player's upkeep, Karma deals damage to that player equal to the number of Swamps he or she controls. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Keldon Warlord 
+ Cost: 	 2RR 
+ Type: 	 Creature — Human Barbarian 
+ Pow/Tgh: 	 (*/*) 
+ Rules Text: 	 Keldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Kormus Bell 
+ Cost: 	 4 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 All Swamps are 1/1 black creatures that are still lands. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Kudzu 
+ Cost: 	 1GG 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant land
+ When enchanted land becomes tapped, destroy it. That land's controller attaches Kudzu to a land of his or her choice. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Lance 
+ Cost: 	 W 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature
+ Enchanted creature has first strike. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Ley Druid 
+ Cost: 	 2G 
+ Type: 	 Creature — Human Druid 
+ Pow/Tgh: 	 (1/1) 
+ Rules Text: 	 {T}: Untap target land. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Library of Leng 
+ Cost: 	 1 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 You have no maximum hand size.
+ If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Lich 
+ Cost: 	 BBBB 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 As Lich enters the battlefield, you lose life equal to your life total.
+ You don't lose the game for having 0 or less life.
+ If you would gain life, draw that many cards instead.
+ Whenever you're dealt damage, sacrifice that many nontoken permanents. If you can't, you lose the game.
+ When Lich is put into a graveyard from the battlefield, you lose the game. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Lifeforce 
+ Cost: 	 GG 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 {G}{G}: Counter target black spell. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Lifelace 
+ Cost: 	 G 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Target spell or permanent becomes green. (Mana symbols on that permanent remain unchanged.) 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Lifetap 
+ Cost: 	 UU 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 Whenever a Forest an opponent controls becomes tapped, you gain 1 life. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Lightning Bolt 
+ Cost: 	 R 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Lightning Bolt deals 3 damage to target creature or player. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Living Artifact 
+ Cost: 	 G 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant artifact
+ Whenever you're dealt damage, put that many vitality counters on Living Artifact.
+ At the beginning of your upkeep, you may remove a vitality counter from Living Artifact. If you do, you gain 1 life. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Living Lands 
+ Cost: 	 3G 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 All Forests are 1/1 creatures that are still lands. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Living Wall 
+ Cost: 	 4 
+ Type: 	 Artifact Creature — Wall 
+ Pow/Tgh: 	 (0/6) 
+ Rules Text: 	 Defender (This creature can't attack.)
+ {1}: Regenerate Living Wall. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Llanowar Elves 
+ Cost: 	 G 
+ Type: 	 Creature — Elf Druid 
+ Pow/Tgh: 	 (1/1) 
+ Rules Text: 	 {T}: Add {G} to your mana pool. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Lord of Atlantis 
+ Cost: 	 UU 
+ Type: 	 Creature — Merfolk 
+ Pow/Tgh: 	 (2/2) 
+ Rules Text: 	 Other Merfolk creatures get +1/+1 and have islandwalk. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Lord of the Pit 
+ Cost: 	 4BBB 
+ Type: 	 Creature — Demon 
+ Pow/Tgh: 	 (7/7) 
+ Rules Text: 	 Flying, trample
+ At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Lure 
+ Cost: 	 1GG 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature
+ All creatures able to block enchanted creature do so. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Magical Hack 
+ Cost: 	 U 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change "swampwalk" to "plainswalk." This effect lasts indefinitely.) 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Mahamoti Djinn 
+ Cost: 	 4UU 
+ Type: 	 Creature — Djinn 
+ Pow/Tgh: 	 (5/6) 
+ Rules Text: 	 Flying (This creature can't be blocked except by creatures with flying or reach.) 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Mana Flare 
+ Cost: 	 2R 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Mana Short 
+ Cost: 	 2U 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Tap all lands target player controls and empty his or her mana pool. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Mana Vault 
+ Cost: 	 1 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 Mana Vault doesn't untap during your untap step.
+ At the beginning of your upkeep, you may pay {4}. If you do, untap Mana Vault.
+ At the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you.
+ {T}: Add {3} to your mana pool. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Manabarbs 
+ Cost: 	 3R 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 Whenever a player taps a land for mana, Manabarbs deals 1 damage to that player. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Meekstone 
+ Cost: 	 1 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 Creatures with power 3 or greater don't untap during their controllers' untap steps. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Merfolk of the Pearl Trident 
+ Cost: 	 U 
+ Type: 	 Creature — Merfolk 
+ Pow/Tgh: 	 (1/1) 
+ Rules Text: 	
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Mesa Pegasus 
+ Cost: 	 1W 
+ Type: 	 Creature — Pegasus 
+ Pow/Tgh: 	 (1/1) 
+ Rules Text: 	 Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.) 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Mind Twist 
+ Cost: 	 XB 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Target player discards X cards at random. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Mons's Goblin Raiders 
+ Cost: 	 R 
+ Type: 	 Creature — Goblin 
+ Pow/Tgh: 	 (1/1) 
+ Rules Text: 	
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Mountain 
+ Cost: 	
+ Type: 	 Basic Land — Mountain 
+ Pow/Tgh: 	
+ Rules Text: 	 R 
+ Set/Rarity: 	 Limited Edition Alpha Land, Limited Edition Alpha Land 
+
+ Name 	Mox Emerald 
+ Cost: 	 0 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 {T}: Add {G} to your mana pool. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Mox Jet 
+ Cost: 	 0 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 {T}: Add {B} to your mana pool. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Mox Pearl 
+ Cost: 	 0 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 {T}: Add {W} to your mana pool. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Mox Ruby 
+ Cost: 	 0 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 {T}: Add {R} to your mana pool. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Mox Sapphire 
+ Cost: 	 0 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 {T}: Add {U} to your mana pool. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Natural Selection 
+ Cost: 	 G 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle his or her library. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Nether Shadow 
+ Cost: 	 BB 
+ Type: 	 Creature — Spirit 
+ Pow/Tgh: 	 (1/1) 
+ Rules Text: 	 Haste
+ At the beginning of your upkeep, if Nether Shadow is in your graveyard with three or more creature cards above it, you may put Nether Shadow onto the battlefield. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Nettling Imp 
+ Cost: 	 2B 
+ Type: 	 Creature — Imp 
+ Pow/Tgh: 	 (1/1) 
+ Rules Text: 	 {T}: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. If it doesn't, destroy it at the beginning of the next end step. Activate this ability only during an opponent's turn, before attackers are declared. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Nevinyrral's Disk 
+ Cost: 	 4 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 Nevinyrral's Disk enters the battlefield tapped.
+ {1}, {T}: Destroy all artifacts, creatures, and enchantments. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Nightmare 
+ Cost: 	 5B 
+ Type: 	 Creature — Nightmare Horse 
+ Pow/Tgh: 	 (*/*) 
+ Rules Text: 	 Flying
+ Nightmare's power and toughness are each equal to the number of Swamps you control. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Northern Paladin 
+ Cost: 	 2WW 
+ Type: 	 Creature — Human Knight 
+ Pow/Tgh: 	 (3/3) 
+ Rules Text: 	 {W}{W}, {T}: Destroy target black permanent. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Obsianus Golem 
+ Cost: 	 6 
+ Type: 	 Artifact Creature — Golem 
+ Pow/Tgh: 	 (4/6) 
+ Rules Text: 	
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Orcish Artillery 
+ Cost: 	 1RR 
+ Type: 	 Creature — Orc Warrior 
+ Pow/Tgh: 	 (1/3) 
+ Rules Text: 	 {T}: Orcish Artillery deals 2 damage to target creature or player and 3 damage to you. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Orcish Oriflamme 
+ Cost: 	 3R 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 Attacking creatures you control get +1/+0. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Paralyze 
+ Cost: 	 B 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature
+ When Paralyze enters the battlefield, tap enchanted creature.
+ Enchanted creature doesn't untap during its controller's untap step.
+ At the beginning of the upkeep of enchanted creature's controller, that player may pay {4}. If he or she does, untap the creature. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Pearled Unicorn 
+ Cost: 	 2W 
+ Type: 	 Creature — Unicorn 
+ Pow/Tgh: 	 (2/2) 
+ Rules Text: 	
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Personal Incarnation 
+ Cost: 	 3WWW 
+ Type: 	 Creature — Avatar Incarnation 
+ Pow/Tgh: 	 (6/6) 
+ Rules Text: 	 {0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Any player may activate this ability, but only if he or she owns Personal Incarnation.
+ When Personal Incarnation dies, its owner loses half his or her life, rounded up. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Pestilence 
+ Cost: 	 2BB 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.
+ {B}: Pestilence deals 1 damage to each creature and each player. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Phantasmal Forces 
+ Cost: 	 3U 
+ Type: 	 Creature — Illusion 
+ Pow/Tgh: 	 (4/1) 
+ Rules Text: 	 Flying
+ At the beginning of your upkeep, sacrifice Phantasmal Forces unless you pay {U}. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Phantasmal Terrain 
+ Cost: 	 UU 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant land
+ As Phantasmal Terrain enters the battlefield, choose a basic land type.
+ Enchanted land is the chosen type. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Phantom Monster 
+ Cost: 	 3U 
+ Type: 	 Creature — Illusion 
+ Pow/Tgh: 	 (3/3) 
+ Rules Text: 	 Flying 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Pirate Ship 
+ Cost: 	 4U 
+ Type: 	 Creature — Human Pirate 
+ Pow/Tgh: 	 (4/3) 
+ Rules Text: 	 Pirate Ship can't attack unless defending player controls an Island.
+ {T}: Pirate Ship deals 1 damage to target creature or player.
+ When you control no Islands, sacrifice Pirate Ship. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Plague Rats 
+ Cost: 	 2B 
+ Type: 	 Creature — Rat 
+ Pow/Tgh: 	 (*/*) 
+ Rules Text: 	 Plague Rats's power and toughness are each equal to the number of creatures named Plague Rats on the battlefield. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Plains 
+ Cost: 	
+ Type: 	 Basic Land — Plains 
+ Pow/Tgh: 	
+ Rules Text: 	 W 
+ Set/Rarity: 	 Limited Edition Alpha Land, Limited Edition Alpha Land 
+
+ Name 	Plateau 
+ Cost: 	
+ Type: 	 Land — Mountain Plains 
+ Pow/Tgh: 	
+ Rules Text: 	
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Power Leak 
+ Cost: 	 1U 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant enchantment
+ At the beginning of the upkeep of enchanted enchantment's controller, that player may pay any amount of mana. Power Leak deals 2 damage to that player. Prevent X of that damage, where X is the amount of mana that player paid this way. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Power Sink 
+ Cost: 	 XU 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Counter target spell unless its controller pays {X}. If he or she doesn't, that player taps all lands with mana abilities he or she controls and empties his or her mana pool. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Power Surge 
+ Cost: 	 RR 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 At the beginning of each player's upkeep, Power Surge deals X damage to that player, where X is the number of untapped lands he or she controlled at the beginning of this turn. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Prodigal Sorcerer 
+ Cost: 	 2U 
+ Type: 	 Creature — Human Wizard 
+ Pow/Tgh: 	 (1/1) 
+ Rules Text: 	 {T}: Prodigal Sorcerer deals 1 damage to target creature or player. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Psionic Blast 
+ Cost: 	 2U 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Psionic Blast deals 4 damage to target creature or player and 2 damage to you. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Psychic Venom 
+ Cost: 	 1U 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant land
+ Whenever enchanted land becomes tapped, Psychic Venom deals 2 damage to that land's controller. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Purelace 
+ Cost: 	 W 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Target spell or permanent becomes white. (Mana symbols on that permanent remain unchanged.) 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Raging River 
+ Cost: 	 RR 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 Whenever one or more creatures you control attack, each defending player divides all creatures without flying he or she controls into a "left" pile and a "right" pile. Then, for each attacking creature you control, choose "left" or "right." That creature can't be blocked this combat except by creatures with flying and creatures in a pile with the chosen label. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Raise Dead 
+ Cost: 	 B 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Return target creature card from your graveyard to your hand. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Red Elemental Blast 
+ Cost: 	 R 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Choose one — Counter target blue spell; or destroy target blue permanent. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Red Ward 
+ Cost: 	 W 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature
+ Enchanted creature has protection from red. This effect doesn't remove Red Ward. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Regeneration 
+ Cost: 	 1G 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+ {G}: Regenerate enchanted creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.) 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Regrowth 
+ Cost: 	 1G 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Return target card from your graveyard to your hand. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Resurrection 
+ Cost: 	 2WW 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Return target creature card from your graveyard to the battlefield. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Reverse Damage 
+ Cost: 	 1WW 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Righteousness 
+ Cost: 	 W 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Target blocking creature gets +7/+7 until end of turn. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Roc of Kher Ridges 
+ Cost: 	 3R 
+ Type: 	 Creature — Bird 
+ Pow/Tgh: 	 (3/3) 
+ Rules Text: 	 Flying 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Rock Hydra 
+ Cost: 	 XRR 
+ Type: 	 Creature — Hydra 
+ Pow/Tgh: 	 (0/0) 
+ Rules Text: 	 Rock Hydra enters the battlefield with X +1/+1 counters on it.
+ For each 1 damage that would be dealt to Rock Hydra, if it has a +1/+1 counter on it, remove a +1/+1 counter from it and prevent that 1 damage.
+ {R}: Prevent the next 1 damage that would be dealt to Rock Hydra this turn.
+ {R}{R}{R}: Put a +1/+1 counter on Rock Hydra. Activate this ability only during your upkeep. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Rod of Ruin 
+ Cost: 	 4 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 {3}, {T}: Rod of Ruin deals 1 damage to target creature or player. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Royal Assassin 
+ Cost: 	 1BB 
+ Type: 	 Creature — Human Assassin 
+ Pow/Tgh: 	 (1/1) 
+ Rules Text: 	 {T}: Destroy target tapped creature. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Sacrifice 
+ Cost: 	 B 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 As an additional cost to cast Sacrifice, sacrifice a creature.
+ Add to your mana pool an amount of {B} equal to the sacrificed creature's converted mana cost. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Samite Healer 
+ Cost: 	 1W 
+ Type: 	 Creature — Human Cleric 
+ Pow/Tgh: 	 (1/1) 
+ Rules Text: 	 {T}: Prevent the next 1 damage that would be dealt to target creature or player this turn. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Savannah 
+ Cost: 	
+ Type: 	 Land — Forest Plains 
+ Pow/Tgh: 	
+ Rules Text: 	
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Savannah Lions 
+ Cost: 	 W 
+ Type: 	 Creature — Cat 
+ Pow/Tgh: 	 (2/1) 
+ Rules Text: 	
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Scathe Zombies 
+ Cost: 	 2B 
+ Type: 	 Creature — Zombie 
+ Pow/Tgh: 	 (2/2) 
+ Rules Text: 	
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Scavenging Ghoul 
+ Cost: 	 3B 
+ Type: 	 Creature — Zombie 
+ Pow/Tgh: 	 (2/2) 
+ Rules Text: 	 At the beginning of each end step, put a corpse counter on Scavenging Ghoul for each creature that died this turn.
+ Remove a corpse counter from Scavenging Ghoul: Regenerate Scavenging Ghoul. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Scrubland 
+ Cost: 	
+ Type: 	 Land — Plains Swamp 
+ Pow/Tgh: 	
+ Rules Text: 	
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Scryb Sprites 
+ Cost: 	 G 
+ Type: 	 Creature — Faerie 
+ Pow/Tgh: 	 (1/1) 
+ Rules Text: 	 Flying 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Sea Serpent 
+ Cost: 	 5U 
+ Type: 	 Creature — Serpent 
+ Pow/Tgh: 	 (5/5) 
+ Rules Text: 	 Sea Serpent can't attack unless defending player controls an Island.
+ When you control no Islands, sacrifice Sea Serpent. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Sedge Troll 
+ Cost: 	 2R 
+ Type: 	 Creature — Troll 
+ Pow/Tgh: 	 (2/2) 
+ Rules Text: 	 Sedge Troll gets +1/+1 as long as you control a Swamp.
+ {B}: Regenerate Sedge Troll. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Sengir Vampire 
+ Cost: 	 3BB 
+ Type: 	 Creature — Vampire 
+ Pow/Tgh: 	 (4/4) 
+ Rules Text: 	 Flying
+ Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Serra Angel 
+ Cost: 	 3WW 
+ Type: 	 Creature — Angel 
+ Pow/Tgh: 	 (4/4) 
+ Rules Text: 	 Flying
+ Vigilance (Attacking doesn't cause this creature to tap.) 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Shanodin Dryads 
+ Cost: 	 G 
+ Type: 	 Creature — Nymph Dryad 
+ Pow/Tgh: 	 (1/1) 
+ Rules Text: 	 Forestwalk 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Shatter 
+ Cost: 	 1R 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Destroy target artifact. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Shivan Dragon 
+ Cost: 	 4RR 
+ Type: 	 Creature — Dragon 
+ Pow/Tgh: 	 (5/5) 
+ Rules Text: 	 Flying
+ {R}: Shivan Dragon gets +1/+0 until end of turn. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Simulacrum 
+ Cost: 	 1B 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 You gain life equal to the damage dealt to you this turn. Simulacrum deals damage to target creature you control equal to the damage dealt to you this turn. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Sinkhole 
+ Cost: 	 BB 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Destroy target land. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Siren's Call 
+ Cost: 	 U 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Cast Siren's Call only during an opponent's turn, before attackers are declared.
+ Creatures the active player controls attack this turn if able.
+ At the beginning of the next end step, destroy all non-Wall creatures that player controls that didn't attack this turn. Ignore this effect for each creature the player didn't control continuously since the beginning of the turn. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Sleight of Mind 
+ Cost: 	 U 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Change the text of target spell or permanent by replacing all instances of one color word with another. (For example, you may change "target black spell" to "target blue spell." This effect lasts indefinitely.) 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Smoke 
+ Cost: 	 RR 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 Players can't untap more than one creature during their untap steps. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Sol Ring 
+ Cost: 	 1 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 {T}: Add {2} to your mana pool. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Soul Net 
+ Cost: 	 1 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 Whenever a creature dies, you may pay {1}. If you do, you gain 1 life. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Spell Blast 
+ Cost: 	 XU 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Counter target spell with converted mana cost X. (For example, if that spell's mana cost is {3}{U}{U}, X is 5.) 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Stasis 
+ Cost: 	 1U 
+ Type: 	 Enchantment 
+ Pow/Tgh: 	
+ Rules Text: 	 Players skip their untap steps.
+ At the beginning of your upkeep, sacrifice Stasis unless you pay {U}. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Steal Artifact 
+ Cost: 	 2UU 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant artifact
+ You control enchanted artifact. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Stone Giant 
+ Cost: 	 2RR 
+ Type: 	 Creature — Giant 
+ Pow/Tgh: 	 (3/4) 
+ Rules Text: 	 {T}: Target creature you control with toughness less than Stone Giant's power gains flying until end of turn. Destroy that creature at the beginning of the next end step. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Stone Rain 
+ Cost: 	 2R 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Destroy target land. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Stream of Life 
+ Cost: 	 XG 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Target player gains X life. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Sunglasses of Urza 
+ Cost: 	 3 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 You may spend white mana as though it were red mana. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Swamp 
+ Cost: 	
+ Type: 	 Basic Land — Swamp 
+ Pow/Tgh: 	
+ Rules Text: 	 B 
+ Set/Rarity: 	 Limited Edition Alpha Land, Limited Edition Alpha Land 
+
+ Name 	Swords to Plowshares 
+ Cost: 	 W 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Exile target creature. Its controller gains life equal to its power. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Taiga 
+ Cost: 	
+ Type: 	 Land — Mountain Forest 
+ Pow/Tgh: 	
+ Rules Text: 	
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Terror 
+ Cost: 	 1B 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Destroy target nonartifact, nonblack creature. It can't be regenerated. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	The Hive 
+ Cost: 	 5 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 {5}, {T}: Put a 1/1 colorless Insect artifact creature token with flying named Wasp onto the battlefield. (It can't be blocked except by creatures with flying or reach.) 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Thicket Basilisk 
+ Cost: 	 3GG 
+ Type: 	 Creature — Basilisk 
+ Pow/Tgh: 	 (2/4) 
+ Rules Text: 	 Whenever Thicket Basilisk blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Thoughtlace 
+ Cost: 	 U 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Target spell or permanent becomes blue. (Mana symbols on that permanent remain unchanged.) 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Throne of Bone 
+ Cost: 	 1 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 Whenever a player casts a black spell, you may pay {1}. If you do, you gain 1 life. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Timber Wolves 
+ Cost: 	 G 
+ Type: 	 Creature — Wolf 
+ Pow/Tgh: 	 (1/1) 
+ Rules Text: 	 Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.) 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Time Vault 
+ Cost: 	 2 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 Time Vault enters the battlefield tapped.
+ Time Vault doesn't untap during your untap step.
+ If you would begin your turn while Time Vault is tapped, you may skip that turn instead. If you do, untap Time Vault.
+ {T}: Take an extra turn after this one. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Time Walk 
+ Cost: 	 1U 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Take an extra turn after this one. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Timetwister 
+ Cost: 	 2U 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Each player shuffles his or her hand and graveyard into his or her library, then draws seven cards. (Then put Timetwister into its owner's graveyard.) 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Tranquility 
+ Cost: 	 2G 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Destroy all enchantments. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Tropical Island 
+ Cost: 	
+ Type: 	 Land — Forest Island 
+ Pow/Tgh: 	
+ Rules Text: 	
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Tsunami 
+ Cost: 	 3G 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Destroy all Islands. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Tundra 
+ Cost: 	
+ Type: 	 Land — Plains Island 
+ Pow/Tgh: 	
+ Rules Text: 	
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Tunnel 
+ Cost: 	 R 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Destroy target Wall. It can't be regenerated. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Twiddle 
+ Cost: 	 U 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 You may tap or untap target artifact, creature, or land. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Two-Headed Giant of Foriys 
+ Cost: 	 4R 
+ Type: 	 Creature — Giant 
+ Pow/Tgh: 	 (4/4) 
+ Rules Text: 	 Trample
+ Two-Headed Giant of Foriys can block an additional creature. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Underground Sea 
+ Cost: 	
+ Type: 	 Land — Island Swamp 
+ Pow/Tgh: 	
+ Rules Text: 	
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Unholy Strength 
+ Cost: 	 B 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature
+ Enchanted creature gets +2/+1. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Unsummon 
+ Cost: 	 U 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Return target creature to its owner's hand. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Uthden Troll 
+ Cost: 	 2R 
+ Type: 	 Creature — Troll 
+ Pow/Tgh: 	 (2/2) 
+ Rules Text: 	 {R}: Regenerate Uthden Troll. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Verduran Enchantress 
+ Cost: 	 1GG 
+ Type: 	 Creature — Human Druid 
+ Pow/Tgh: 	 (0/2) 
+ Rules Text: 	 Whenever you cast an enchantment spell, you may draw a card. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Vesuvan Doppelganger 
+ Cost: 	 3UU 
+ Type: 	 Creature — Shapeshifter 
+ Pow/Tgh: 	 (0/0) 
+ Rules Text: 	 You may have Vesuvan Doppelganger enter the battlefield as a copy of any creature on the battlefield except it doesn't copy that creature's color and it gains "At the beginning of your upkeep, you may have this creature become a copy of target creature except it doesn't copy that creature's color. If you do, this creature gains this ability." 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Veteran Bodyguard 
+ Cost: 	 3WW 
+ Type: 	 Creature — Human 
+ Pow/Tgh: 	 (2/5) 
+ Rules Text: 	 As long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Volcanic Eruption 
+ Cost: 	 XUUU 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Destroy X target Mountains. Volcanic Eruption deals damage to each creature and each player equal to the number of Mountains put into a graveyard this way. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Wall of Air 
+ Cost: 	 1UU 
+ Type: 	 Creature — Wall 
+ Pow/Tgh: 	 (1/5) 
+ Rules Text: 	 Defender, flying (This creature can't attack, and it can block creatures with flying.) 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Wall of Bone 
+ Cost: 	 2B 
+ Type: 	 Creature — Skeleton Wall 
+ Pow/Tgh: 	 (1/4) 
+ Rules Text: 	 Defender (This creature can't attack.)
+ {B}: Regenerate Wall of Bone. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.) 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Wall of Brambles 
+ Cost: 	 2G 
+ Type: 	 Creature — Plant Wall 
+ Pow/Tgh: 	 (2/3) 
+ Rules Text: 	 Defender (This creature can't attack.)
+ {G}: Regenerate Wall of Brambles. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Wall of Fire 
+ Cost: 	 1RR 
+ Type: 	 Creature — Wall 
+ Pow/Tgh: 	 (0/5) 
+ Rules Text: 	 Defender (This creature can't attack.)
+ {R}: Wall of Fire gets +1/+0 until end of turn. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Wall of Ice 
+ Cost: 	 2G 
+ Type: 	 Creature — Wall 
+ Pow/Tgh: 	 (0/7) 
+ Rules Text: 	 Defender (This creature can't attack.) 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Wall of Stone 
+ Cost: 	 1RR 
+ Type: 	 Creature — Wall 
+ Pow/Tgh: 	 (0/8) 
+ Rules Text: 	 Defender (This creature can't attack.) 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Wall of Swords 
+ Cost: 	 3W 
+ Type: 	 Creature — Wall 
+ Pow/Tgh: 	 (3/5) 
+ Rules Text: 	 Defender (This creature can't attack.)
+ Flying 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Wall of Water 
+ Cost: 	 1UU 
+ Type: 	 Creature — Wall 
+ Pow/Tgh: 	 (0/5) 
+ Rules Text: 	 Defender (This creature can't attack.)
+ {U}: Wall of Water gets +1/+0 until end of turn. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Wall of Wood 
+ Cost: 	 G 
+ Type: 	 Creature — Wall 
+ Pow/Tgh: 	 (0/3) 
+ Rules Text: 	 Defender (This creature can't attack.) 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Wanderlust 
+ Cost: 	 2G 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature
+ At the beginning of the upkeep of enchanted creature's controller, Wanderlust deals 1 damage to that player. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	War Mammoth 
+ Cost: 	 3G 
+ Type: 	 Creature — Elephant 
+ Pow/Tgh: 	 (3/3) 
+ Rules Text: 	 Trample 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Warp Artifact 
+ Cost: 	 BB 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant artifact
+ At the beginning of the upkeep of enchanted artifact's controller, Warp Artifact deals 1 damage to that player. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Water Elemental 
+ Cost: 	 3UU 
+ Type: 	 Creature — Elemental 
+ Pow/Tgh: 	 (5/4) 
+ Rules Text: 	
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Weakness 
+ Cost: 	 B 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature
+ Enchanted creature gets -2/-1. 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Web 
+ Cost: 	 G 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+ Enchanted creature gets +0/+2 and has reach. (It can block creatures with flying.) 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Wheel of Fortune 
+ Cost: 	 2R 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Each player discards his or her hand and draws seven cards. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	White Knight 
+ Cost: 	 WW 
+ Type: 	 Creature — Human Knight 
+ Pow/Tgh: 	 (2/2) 
+ Rules Text: 	 First strike (This creature deals combat damage before creatures without first strike.)
+ Protection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.) 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	White Ward 
+ Cost: 	 W 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant creature
+ Enchanted creature has protection from white. This effect doesn't remove White Ward. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Wild Growth 
+ Cost: 	 G 
+ Type: 	 Enchantment — Aura 
+ Pow/Tgh: 	
+ Rules Text: 	 Enchant land
+ Whenever enchanted land is tapped for mana, its controller adds {G} to his or her mana pool (in addition to the mana the land produces). 
+ Set/Rarity: 	 Limited Edition Alpha Common 
+
+ Name 	Will-O'-The-Wisp (Will-o'-the-Wisp) 
+ Cost: 	 B 
+ Type: 	 Creature — Spirit 
+ Pow/Tgh: 	 (0/1) 
+ Rules Text: 	 Flying (This creature can't be blocked except by creatures with flying or reach.)
+ {B}: Regenerate Will-o'-the-Wisp. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.) 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Winter Orb 
+ Cost: 	 2 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 Players can't untap more than one land during their untap steps. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Wooden Sphere 
+ Cost: 	 1 
+ Type: 	 Artifact 
+ Pow/Tgh: 	
+ Rules Text: 	 Whenever a player casts a green spell, you may pay {1}. If you do, you gain 1 life. 
+ Set/Rarity: 	 Limited Edition Alpha Uncommon 
+
+ Name 	Word of Command 
+ Cost: 	 BB 
+ Type: 	 Instant 
+ Pow/Tgh: 	
+ Rules Text: 	 Look at target opponent's hand and choose a card from it. You control that player until Word of Command finishes resolving. The player plays that card if able. While doing so, the player can activate mana abilities only if they're from lands he or she controls and only if mana they produce is spent to activate other mana abilities of lands he or she controls and/or play that card. If the chosen card is cast as a spell, you control the player while that spell is resolving. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Wrath of God 
+ Cost: 	 2WW 
+ Type: 	 Sorcery 
+ Pow/Tgh: 	
+ Rules Text: 	 Destroy all creatures. They can't be regenerated. 
+ Set/Rarity: 	 Limited Edition Alpha Rare 
+
+ Name 	Zombie Master 
+ Cost: 	 1BB 
+ Type: 	 Creature — Zombie 
+ Pow/Tgh: 	 (2/3) 
+ Rules Text: 	 Other Zombie creatures have swampwalk.
+ Other Zombies have "{B}: Regenerate this permanent." 
+ Set/Rarity: 	 Limited Edition Alpha Rare
+ 
