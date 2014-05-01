@@ -69,6 +69,14 @@ def gameplay(my_deck):
     shufle_deck(my_deck)
     handsim = draw_hand(my_deck)
     return handsim
+    
+def play_card(hand):
+    card = raw_input('Play Card ')
+    if card not in hand:
+        print "Error, try again!"
+        return play_card(hand)
+    return card
+
 # (do not delete) game play functions end here....
 
 def main():
@@ -96,8 +104,7 @@ def main():
     print player1_hand
     game_on = True
     while game_on:
-        
-#        card = raw_input('Play Card ')
+        play_card(player1_hand)
         #put a bunch of stuff here:
         game_on = False
     
