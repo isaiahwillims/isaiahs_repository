@@ -69,9 +69,41 @@ def gameplay(my_deck):
     shufle_deck(my_deck)
     handsim = draw_hand(my_deck)
     return handsim
+    
+def b_f_to_grave
+
+def h_to_grave
+
+def e_to_grave
+
+def g_to_hand
+
+def b_f_to_hand
+
+def e_to_hand
+
+def hand_to_exile
+
+def b_f_to_exile
+
+def g_to_exile
+
+def e_to_b_field
+
+def h_to_b_field
+
+def g_to_b_fielf
+
 # (do not delete) game play functions end here....
 
 def main():
+
+    tapped = []
+    untapped = []
+    battle_field = []
+    hand = []
+    grave_yard = []
+    exile = []
 
     script_name, deck, card_info = argv
     
