@@ -70,15 +70,14 @@ def gameplay(my_deck):
     handsim = draw_hand(my_deck)
     return handsim
     
-def play_card(hand, b_field, turn):
+def play_card(hand, b_field, turn='y'):
     while turn == 'y': 
         card = raw_input('Play Card ')
         if card not in hand:
             print "Error, try again!"
-            return play_card(hand, b_field, turn)
+            return play_card(hand, b_field)
         b_field.append(card)
         hand.remove(card)
-#         return card, hand, b_field
         turn = raw_input('Play again? (y, n)')
     return card, hand, b_field
 
@@ -116,10 +115,11 @@ def main():
     player2_habd, op_dech = draw_hand(op_deck)
     print player1_hand
     game_on = True
-    turn = 'y'
     while game_on:
         b_field = []
-        card, hand, b_field  = play_card(player1_hand, b_field, turn)
+        card, hand1, b_field  = play_card(player1_hand, b_field)
+        print 'this'
+        card, hand2, b_field  = play_card(player2_hand, b_field)
         print card
         print hand
         print b_field
