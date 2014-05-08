@@ -80,11 +80,10 @@ def play_card(hand):
 def place_card_on_field(card):
     X = 1
     b_field = []
-    b_field.append(card)
-    print  "Cards on battle field:", b_field
-    if X < 3:
+    while X < 3:
+        b_field.append(card)
         X = X + 1
-        place_card_on_field(card)
+        print  "Cards on battle field:", b_field
     return b_field
 
 # (do not delete) game play functions end here....
