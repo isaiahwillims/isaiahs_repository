@@ -76,6 +76,18 @@ def play_card(hand):
         print "Error, try again!"
         return play_card(hand)
     return card
+<<<<<<< HEAD
+=======
+    
+def place_card_on_field(card):
+    X = 1
+    b_field = []
+    while X < 3:
+        b_field.append(card)
+        X = X + 1
+        print  "Cards on battle field:", b_field
+    return b_field
+>>>>>>> 198ad66cd6309f5c1f00362e6b666491e5bf183e
 
 # (do not delete) game play functions end here....
 
@@ -104,7 +116,13 @@ def main():
     print player1_hand
     game_on = True
     while game_on:
+<<<<<<< HEAD
         play_card(player1_hand)
+=======
+        b_field = []
+#        play_card(player1_hand)
+        place_card_on_field(play_card(player1_hand))
+>>>>>>> 198ad66cd6309f5c1f00362e6b666491e5bf183e
         #put a bunch of stuff here:
         game_on = False
     
