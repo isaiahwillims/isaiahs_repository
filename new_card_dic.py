@@ -70,24 +70,26 @@ def gameplay(my_deck):
     handsim = draw_hand(my_deck)
     return handsim
     
-def play_card(hand):
-    card = raw_input('Play Card ')
-    if card not in hand:
-        print "Error, try again!"
-        return play_card(hand)
-    return card
-<<<<<<< HEAD
-=======
-    
-def place_card_on_field(card):
-    X = 1
-    b_field = []
-    while X < 3:
+def play_card(hand, b_field, turn):
+    while turn == 'y': 
+        card = raw_input('Play Card ')
+        if card not in hand:
+            print "Error, try again!"
+            return play_card(hand, b_field, turn)
         b_field.append(card)
-        X = X + 1
-        print  "Cards on battle field:", b_field
-    return b_field
->>>>>>> 198ad66cd6309f5c1f00362e6b666491e5bf183e
+        hand.remove(card)
+#         return card, hand, b_field
+        turn = raw_input('Play again? (y, n)')
+    return card, hand, b_field
+
+# def place_card_on_field(card):
+#     X = 1
+#     b_field = []
+#     while X < 3:
+#         b_field.append(card)
+#         X = X + 1
+#         print  "Cards on battle field:", b_field
+#     return b_field
 
 # (do not delete) game play functions end here....
 
@@ -112,17 +114,17 @@ def main():
     shufle = shufle_deck(my_deck)
     player1_hand, my_deck = draw_hand(my_deck)
     player2_habd, op_dech = draw_hand(op_deck)
-    
     print player1_hand
     game_on = True
+    turn = 'y'
     while game_on:
-<<<<<<< HEAD
-        play_card(player1_hand)
-=======
         b_field = []
-#        play_card(player1_hand)
-        place_card_on_field(play_card(player1_hand))
->>>>>>> 198ad66cd6309f5c1f00362e6b666491e5bf183e
+        card, hand, b_field  = play_card(player1_hand, b_field, turn)
+        print card
+        print hand
+        print b_field
+        
+#         place_card_on_field(play_card(player1_hand))
         #put a bunch of stuff here:
         game_on = False
     
