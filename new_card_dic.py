@@ -112,8 +112,9 @@ def main():
 #     print "player %s goes first" % player_one
     shufle = shufle_deck(my_deck)
     player1_hand, my_deck = draw_hand(my_deck)
-    player2_habd, op_dech = draw_hand(op_deck)
-    print player1_hand
+    player2_hand, op_dech = draw_hand(op_deck)
+    print "--player 1 hand:", player1_hand
+    print "--player 2 hand:", player2_hand
     game_on = True
     while game_on:
         b_field = []
@@ -121,8 +122,9 @@ def main():
         print 'this'
         card, hand2, b_field  = play_card(player2_hand, b_field)
         print card
-        print hand
-        print b_field
+        print "--Player1 hand:", hand1
+        print "--Player2 hand:", hand2
+        print "--Battlefield:", b_field
         
 #         place_card_on_field(play_card(player1_hand))
         #put a bunch of stuff here:
