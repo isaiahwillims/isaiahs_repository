@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 import random
-
 from sys import argv
 
 def get_card_dic(file):
@@ -80,17 +79,25 @@ def play_card(hand, b_field, turn='y'):
         hand.remove(card)
         turn = raw_input('Play again? (y, n)')
     return card, hand, b_field
+    
+    
+ 
+    
+    
+#########Work on these functions################
 
-# def place_card_on_field(card):
-#     X = 1
-#     b_field = []
-#     while X < 3:
-#         b_field.append(card)
-#         X = X + 1
-#         print  "Cards on battle field:", b_field
-#     return b_field
 
-# (do not delete) game play functions end here....
+    
+def draw_card(deck, hand):
+    return deck, hand
+    
+def game_status(life, deck):
+    return #True/False
+    
+def attack_opponent(card, player_life):
+    #get the power/toughness for the given card and subtract it from the players life
+    #raw input ("do you want to attack") 
+    return player_life
 
 def main():
 
@@ -115,21 +122,38 @@ def main():
     player2_hand, op_dech = draw_hand(op_deck)
     print "--player 1 hand:", player1_hand
     print "--player 2 hand:", player2_hand
+    b_field = []
+    print "Player One Turn"
+    card, hand1, b_field  = play_card(player1_hand, b_field)
+    print "Player Two Turn"
+    card, hand2, b_field  = play_card(player2_hand, b_field)
+    print card
+    print "--Player1 hand:", hand1
+    print "--Player2 hand:", hand2
+    print "--Battlefield:", b_field
+    
+    player_1_life = 20
+    player_2_life = 20
+    
     game_on = True
-    while game_on:
-        b_field = []
+    while game_on == True:
+        hand1, deck1 = draw_card
+        print hand1
+        print "Player One Turn"
         card, hand1, b_field  = play_card(player1_hand, b_field)
-        print 'this'
+        game_on = game_status(deck1, player_1_life)
+        hand2, deck2 = draw_card
+        player_2_life = attack_opponent(card, player_life)
+        print hand2
+        print "Player Two Turn"
         card, hand2, b_field  = play_card(player2_hand, b_field)
-        print card
-        print "--Player1 hand:", hand1
-        print "--Player2 hand:", hand2
-        print "--Battlefield:", b_field
-        
+        player_2_life = attack_opponent(card, player_life)
+        game_on = game_status(deck2, player_2_life)
 #         place_card_on_field(play_card(player1_hand))
         #put a bunch of stuff here:
         game_on = False
     
+    #say who wins
             
     play = gameplay(my_deck)
 #     print gameplay(my_deck)
