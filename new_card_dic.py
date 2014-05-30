@@ -89,15 +89,28 @@ def play_card(hand, b_field, turn='y'):
 
     
 def draw_card(deck, hand):
+#    c1 = deck[:1]
+#     print deck
+#     print c1
+    hand.append(deck[0])
+    del deck[0]
     return deck, hand
     
 def game_status(life, deck):
-    return #True/False
+    if life < 1:
+        return False
+    elif len(deck) < 1:
+        return False
+    else:
+        return True
     
-def attack_opponent(card, player_life):
+def attack_opponent(card, player_life, cardname):
     #get the power/toughness for the given card and subtract it from the players life
     #raw input ("do you want to attack") 
     return player_life
+
+
+############Start Main Function#################
 
 def main():
 
@@ -117,7 +130,8 @@ def main():
 #     x = 2
 #     player_one = play_first(x)
 #     print "player %s goes first" % player_one
-    shufle = shufle_deck(my_deck)
+    shufle_deck(my_deck)
+    shufle_deck(op_deck)
     player1_hand, my_deck = draw_hand(my_deck)
     player2_hand, op_dech = draw_hand(op_deck)
     print "--player 1 hand:", player1_hand
@@ -137,18 +151,19 @@ def main():
     
     game_on = True
     while game_on == True:
-        hand1, deck1 = draw_card
+        draw_card(my_deck, hand1)
         print hand1
         print "Player One Turn"
         card, hand1, b_field  = play_card(player1_hand, b_field)
         game_on = game_status(deck1, player_1_life)
-        hand2, deck2 = draw_card
-        player_2_life = attack_opponent(card, player_life)
+        draw_card(op_deck, hand2)
+#         player_2_life = 
+#        (card, player_life)
         print hand2
         print "Player Two Turn"
         card, hand2, b_field  = play_card(player2_hand, b_field)
-        player_2_life = attack_opponent(card, player_life)
-        game_on = game_status(deck2, player_2_life)
+#        player_2_life = attack_opponent(card, player_life)
+#        game_on = game_status(deck2, player_2_life)
 #         place_card_on_field(play_card(player1_hand))
         #put a bunch of stuff here:
         game_on = False
