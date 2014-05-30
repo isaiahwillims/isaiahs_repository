@@ -99,10 +99,9 @@ def draw_card(deck, hand):
 def game_status(life, deck):
     if life < 1:
         return False
-    elif len(deck) < 1:
+    if len(deck) < 1:
         return False
-    else:
-        return True
+    return True
     
 def attack_opponent(card, player_life, cardname):
     #get the power/toughness for the given card and subtract it from the players life
