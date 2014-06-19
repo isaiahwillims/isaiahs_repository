@@ -104,6 +104,7 @@ def game_status(life, deck):
     return True
     
 def attack_opponent(card, player_life, cardname):
+    player_life = player_life - power
     #get the power/toughness for the given card and subtract it from the players life
     #raw input ("do you want to attack") 
     return player_life
@@ -114,6 +115,9 @@ def attack_opponent(card, player_life, cardname):
 def main():
 
     script_name, deck1, deck2, card_info = argv
+    
+#    class atacking_creature:
+#    class blocking_creature:
     
     basic = ['Mountain', 'Island', 'Plains', 'Forest', 'Swamp']
     legal = ['1', '2', '3', '4']
