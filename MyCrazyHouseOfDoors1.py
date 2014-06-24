@@ -86,26 +86,31 @@ def main():
 				print "you faint and die"
 				print "GAME OVER SCARDY CAT!"
 				print credits
+				retry()
 			elif door1_2 == "1":
 				print line
 				print "The door comes to life and eats you!"
 				print "GAME OVER... You are now lunch."
 				print credits
+				retry()
 			elif door1_2 == "2":
 				print line
 				print "The door comes to life and eats you!"
 				print "GAME OVER... You are now lunch."
 				print credits
+				retry()
 			elif door1_2 == "4":
 				print line
 				print "The door comes to life and eats you!"
 				print "GAME OVER... You are now lunch."
 				print credits
+				retry()
 			elif door1_2 == "5":
 				print line
 				print "The door comes to life and eats you!"
 				print "GAME OVER... You are now lunch."
 				print credits
+				retry()
 			elif door1_2 == "3":
 				print line
 				print "You enter an odd dark room with two doors. What do you do?"
@@ -122,11 +127,13 @@ def main():
 					print "you see a friendly dragon and it ,by accident\n, sneezes on you, roasting your body..."
 					print "GAME OVER!!! YOU LOOSE!!!"
 					print credits
+					retry()
 				elif door124 == "3":
 					print line
 					print "You awaken, and before you eyes the doors vanish!"
 					print "you are forever trapped... Game over!"
 					print credits
+					retry()
 					
 				elif door124 == "1":
 					print line
@@ -153,12 +160,14 @@ def main():
 							print "The monster steps on you and you die"
 							print "Game Over!!!"
 							print credits
+							retry()
 						elif boss1 == "1":
 							print line
 							print "You pull the trigger only to lean the \nhard way that its has no ammo!"
 							print "The monster laughs and then eats you."
 							print "game over looser..."
 							print credits
+							retry()
 						elif boss1 == "2":
 							print line
 							print "The monster laughs at you as you prick it with the tooth pick"
@@ -167,12 +176,14 @@ def main():
 							print "You win! I always knew you could!"
 							print "Enjoy your %s" % reward
 							print credits
+							retry()
 					
 					else:
 						print line
 						print "you open door %s and a jet of flame engulfs you and you die." % door100
 						print "Game Over... too bad... so sad... I bet you are MAD..."
 						print credits
+						retry()
 	elif door == "3":
 		print line
 		print "the door locks behind you. You see three switches"
@@ -187,11 +198,13 @@ def main():
 			print "You burst into flame and die!"
 			print "Game over 'Hot Shot'"
 			print credits
+			retry()
 		elif switch == "2":
 			print line
 			print "You become a human popcical"
 			print "game over 'sucker'! You have to stay here and forever 'cool it'"
 			print credits
+			retry()
 		elif switch == "3":
 			print line
 			print "You decide to pull the purple switch."
@@ -221,6 +234,7 @@ def main():
 					print "a worm hole and tossed into the vacuum of space were you die."
 					print "Game Over space man!"
 					print credits
+					retry()
 				elif wdoor == "3":
 					print line
 					print "You see a giant robot and the door locks behind you"
@@ -237,18 +251,21 @@ def main():
 						print "Suddenly, it leans your way and falls on top of you!"
 						print "I guess you killed it... You still get a GAME OVER, however..."
 						print credits
+						retry()
 					elif fakeboss1 == "2":
 						print line
 						print "You try to tickle it with the feather... no efect."
 						print "It steps on you and you die..."
 						print "I was sure that would work... O well. GAME OVER!!!"
 						print credits
+						retry()
 					elif fakeboss1 == "3":
 						print line
 						print "Seeing that you are a Jedi the robot turns its hand into an even bigger"
 						print "Light-Sabre and cuts your head off from a distance..."
 						print "The Force is not strong with this one... GAME OVER"
 						print credits
+						retry()
 					
 				elif wdoor == "1":
 					print line
@@ -274,6 +291,7 @@ def main():
 							print "You make it really MAD and it ZAPS you."
 							print "You lost that staring contest... GAME OVER!"
 							print credits
+							retry()
 						elif boss3 == "2":
 							print line
 							print "right as you hold out the butter-knife it shoots a beam at you."
@@ -282,12 +300,14 @@ def main():
 							print "You win! That was smart of you using the knife like a mirror to reflect the light."
 							print "Now for your prize... enjoy your %s!" % reward
 							print credits
+							retry()
 						
 					else:
 						print line
 						print "You enter door %s and you get sucked into a black hole and die..." % undoor
 						print "You not coming 'BLACK' are you? GAME OVER"
 						print credits
+						retry()
 			else:
 				print line
 				print "You enter the cave and walk for awhile"
@@ -296,6 +316,7 @@ def main():
 				print "The small flesh eating dinosuar (raptor) eats your head off!"
 				print "You are now extinct ... game over..." 
 				print credits
+				retry()
 	elif door == "2":
 		print line
 		print "the door locks behind you and you see two tunnles"
@@ -309,6 +330,7 @@ def main():
 			print "You do not see the incoming train and you get hit!"
 			print "GAME OVER... Ka-splat!"
 			print credits
+			retry()
 		elif tun == "2":
 			print line
 			print "you see two trains... what one do you wish to ride?"
@@ -322,6 +344,7 @@ def main():
 				print "the rocket explodes and you die!"
 				print "Game Over... don don dooooon!!!"
 				print credits
+				retry()
 			elif train == "1":
 				print line
 				print "The train pulls slowly away from the station"
@@ -339,6 +362,7 @@ def main():
 					print "You leap from the train and get splattered \non a pole you did not see there."
 					print "GAME OVER... at least you tried."
 					print credits
+					retry()
 				elif trainw == "2":
 					print line
 					print "In fright you bravely leap onto an unstable platform."
@@ -381,6 +405,7 @@ def main():
 								print "GAME OVER!!! I guess curiosity killed the 'cat'..."
 								print "or player in this case"
 								print credits
+								retry()
 							elif aliandoor == "2":
 								print line
 								print "Terrafied you run to the door."
@@ -389,6 +414,7 @@ def main():
 								print "You can never leave here"
 								print "Game over... FEAR solves nothing."
 								print credits
+								retry()
 						
 						elif mdoors == "2":
 							print line
@@ -414,6 +440,7 @@ def main():
 									print "White, glowing tenticlals wrap around you and srush you!"
 									print "Game Over! You went to the light at the end on the tunnel!"
 									print credits
+									retry()
 								elif light == "2":
 									print line
 									print "You try to turn back, but white, glowing tenticals reach out"
@@ -421,6 +448,7 @@ def main():
 									print "GAME OVER, you have been claimed by the light at the end of"
 									print "the tunnel..."
 									print credits
+									retry()
 							elif fork == "2":
 								print line
 								print "you decide to go left."
@@ -436,6 +464,7 @@ def main():
 									print "You turn back and the grownd beneath your feet crumbles away..."
 									print "Game Over... You have 'falled' me"
 									print credits
+									retry()
 								elif Hdoor == "1":
 									print line
 									print "The door locks behind you and you are trapped in the room"
@@ -443,6 +472,7 @@ def main():
 									print "thinks you are an egg!"
 									print "GAME OVER, You'd be better off scrambled"
 									print credits
+									retry()
 								elif Hdoor == "2":
 									print line
 									print "The door locks behind you and you see a GIANT ghost"
@@ -463,6 +493,7 @@ def main():
 										print "the ghost screams and you have a heart attack..."
 										print "Game Over.................Freak"
 										print credits
+										retry()
 									elif boss2 == "2":
 										print line
 										print "you fire the ray gun and burn a hole in ghost"
@@ -470,12 +501,14 @@ def main():
 										print "************"
 										print "you win! I always knew you could! \nEnjoy your %s!" % reward
 										print credits
+										retry()
 									elif boss2 == "3":
 										print line
 										print "You swing the club at the ghost and pass inside of it."
 										print "You sufocate and die..."
 										print "GAME OVER.......GASP!!! I can't...brea..."
 										print credits
+										retry()
 									elif boss2 == "4":
 										print line
 										print "You say the most horible insult you know..."
@@ -485,6 +518,7 @@ def main():
 										print "died from shock..."
 										print "Game Over...JEARK...or 'sweety'... I'm confused..."
 										print credits
+										retry()
 								
 					elif zip == "2":
 						print line
@@ -501,6 +535,7 @@ def main():
 							print "You slide down the shoot and get impailed by spikes..."
 							print "GAME OVER. Didn't you ever play 'Shoots and Ladders'"
 							print credits
+							retry()
 						elif ladorsh == "2":
 							print line
 							print "you decide to climb the ladder."
@@ -508,6 +543,7 @@ def main():
 							print "and the hot air gusts in you face... killing you."
 							print "Game Over! I bet you are 'STEAMED'"
 							print credits
+							retry()
 						
 					elif zip == "3":
 						print line
@@ -516,12 +552,14 @@ def main():
 						print "to your demise..."
 						print "Are you THAT stupid? GAME OVER"
 						print credits
+						retry()
 						
 				elif trainw == "3":
 					print line
 					print "Stunned in fear... you stay put \nand the train plunges into lava and you die."
 					print "Game Over, next time move your lazy butt!"
 					print credits
+					retry()
 	elif door == "4":
 		print line
 		print "You darted out of the house screaming at the top of your lungs!"
